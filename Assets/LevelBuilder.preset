@@ -1,0 +1,1114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelBuilder
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 32d5e913d48fc28409c8ff644dbe52bb,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CameraPrefab
+    value: 
+    objectReference: {fileID: 3209436548286950639, guid: 612fcb7145273864fa209f1e8cc79f1c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SpriteShapeHolder
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpriteShapeController
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RepeatingBackgroundHolder
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LevelRotation.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LevelRotation.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LevelRotation.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bossPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _generalNodeOffset
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].SceneName
+    value: Alien1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].SceneType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].GeneralNodeOffsetY
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].SpritePrefab
+    value: 
+    objectReference: {fileID: 6104715380183055584, guid: 7c690fde5985ab64e9921e5d93cd60f7,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].SceneExitPrefab
+    value: 
+    objectReference: {fileID: 276426837644552591, guid: 1b35d4c4b9ee91549a76885a56ad8d8e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].SkyPrefab
+    value: 
+    objectReference: {fileID: 2159664954975483122, guid: 11e8343cee9bd0c46af1c779731bda60,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].RepeatingBackgroundPrefab
+    value: 
+    objectReference: {fileID: 6308085424369004012, guid: 67511c2565ea374468e5ad142ea5a7fc,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].BackgroundOffset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].BackgroundOffset.y
+    value: -5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].BackgroundOffset.z
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].LevelRotation.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].LevelRotation.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].LevelRotation.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].ExitEncounterPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].HasProjectiles
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].HasFallingObjects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].EnvironmentEffects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].MainSpriteSides.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].MainSpriteSides.Array.data[0]
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].MainSpriteSides.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].MainSpriteSides.Array.data[2]
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].MainSpriteSides.Array.data[3]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].ReferencePointMinDistance
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].ReferencePointMaxDistance
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].TangentMultiplier
+    value: 1.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].ReferencePointHeight
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].ReferencePointHeightMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].GroundOffsetX
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].GroundOffsetY
+    value: -20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].NodeType
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8693104434041529569, guid: 2d2c91f01d0ea5045a36504cbd538591,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].NodeProbability
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].Scale
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].OffsetY
+    value: -8.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[0].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].NodeType
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].NodeObjectRef
+    value: 
+    objectReference: {fileID: 375652300696555835, guid: 8883086bf546c6b4e9516c798a251fdb,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].MaxOfThisKind
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].NodeProbability
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].Scale
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].OffsetY
+    value: 2.31
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[1].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].NodeType
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].NodeObjectRef
+    value: 
+    objectReference: {fileID: 5693021396961657602, guid: d6b11909aefbb87418fe28446482bed6,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].NodeProbability
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].OffsetY
+    value: 2.88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[2].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].NodeType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].NodeObjectRef
+    value: 
+    objectReference: {fileID: 7463360447542202074, guid: d62fccf927177cc409dd6e58cb164e63,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].MaxOfThisKind
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].NodeProbability
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].Scale
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].OffsetY
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[0].NodeObjects.Array.data[3].OffsetX
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].SceneName
+    value: WaterWorld
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].SceneType
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].GeneralNodeOffsetY
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].SpritePrefab
+    value: 
+    objectReference: {fileID: 1178478037027315708, guid: 0f8c3a6573ba9e042a96c286bab42214,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].SceneExitPrefab
+    value: 
+    objectReference: {fileID: 276426837644552591, guid: 89b1f9cadfafdb045ae145042f4e8e4a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].SkyPrefab
+    value: 
+    objectReference: {fileID: 7444102512734952187, guid: 4defe6dbe7f8b9640b34ac0f7d0d44fc,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].RepeatingBackgroundPrefab
+    value: 
+    objectReference: {fileID: 1351195350271203136, guid: 276f3dbe437c91e40a93f19ec80ec79c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].BackgroundOffset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].BackgroundOffset.y
+    value: -5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].BackgroundOffset.z
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].LevelRotation.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].LevelRotation.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].LevelRotation.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].ExitEncounterPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].HasProjectiles
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].HasFallingObjects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].EnvironmentEffects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].EnvironmentEffects.Array.data[0].EffectPrefab
+    value: 
+    objectReference: {fileID: 9097667533595173733, guid: 7043e319cd8be61479b7e8c46ed4f1c1,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].EnvironmentEffects.Array.data[0].EffectParent
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].MainSpriteSides.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].MainSpriteSides.Array.data[0]
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].MainSpriteSides.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].MainSpriteSides.Array.data[2]
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].MainSpriteSides.Array.data[3]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].ReferencePointMinDistance
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].ReferencePointMaxDistance
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].TangentMultiplier
+    value: 1.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].ReferencePointHeight
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].ReferencePointHeightMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].GroundOffsetX
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].GroundOffsetY
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 10b485081141726418d7618ef6d6786b,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].OffsetY
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[0].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 1561f13bef2c9024aba21f52f3e0b308,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].OffsetY
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[1].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 361d25ae97c7d4645b93641790e7eb30,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].OffsetY
+    value: 1.11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[2].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 1b84c0e727e1ca3418ad05f94243e46d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].NodeProbability
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].OffsetY
+    value: 1.79
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[3].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].NodeObjectRef
+    value: 
+    objectReference: {fileID: 7813769127204332587, guid: 9db92114d6c07ee44893c167ccf7c84c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].NodeProbability
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].OffsetY
+    value: 7.71
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[4].OffsetX
+    value: 5.06
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].NodeType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].NodeObjectRef
+    value: 
+    objectReference: {fileID: 7463360447542202074, guid: d62fccf927177cc409dd6e58cb164e63,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].MaxOfThisKind
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].NodeProbability
+    value: 106.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[5].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].NodeObjectRef
+    value: 
+    objectReference: {fileID: 4050853268725708394, guid: 7703014b5ca8ff242b98ff3e36628da6,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].MaxOfThisKind
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].NodeProbability
+    value: 38.3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[6].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].NodeObjectRef
+    value: 
+    objectReference: {fileID: 5318633853843999229, guid: d05f01c2ded9b78418b749ed8c48112c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].MaxOfThisKind
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].NodeProbability
+    value: 35.77
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[1].NodeObjects.Array.data[7].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].SceneName
+    value: WaterWorldUp
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].SceneType
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].GeneralNodeOffsetY
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].SpritePrefab
+    value: 
+    objectReference: {fileID: 1178478037027315708, guid: 0f8c3a6573ba9e042a96c286bab42214,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].SceneExitPrefab
+    value: 
+    objectReference: {fileID: 276426837644552591, guid: 89b1f9cadfafdb045ae145042f4e8e4a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].SkyPrefab
+    value: 
+    objectReference: {fileID: 7444102512734952187, guid: 4defe6dbe7f8b9640b34ac0f7d0d44fc,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].RepeatingBackgroundPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].BackgroundOffset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].BackgroundOffset.y
+    value: -5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].BackgroundOffset.z
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].LevelRotation.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].LevelRotation.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].LevelRotation.z
+    value: 90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].ExitEncounterPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].HasProjectiles
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].HasFallingObjects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].EnvironmentEffects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].EnvironmentEffects.Array.data[0].EffectPrefab
+    value: 
+    objectReference: {fileID: 9097667533595173733, guid: 7043e319cd8be61479b7e8c46ed4f1c1,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].EnvironmentEffects.Array.data[0].EffectParent
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].MainSpriteSides.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].MainSpriteSides.Array.data[0]
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].MainSpriteSides.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].MainSpriteSides.Array.data[2]
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].MainSpriteSides.Array.data[3]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].ReferencePointMinDistance
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].ReferencePointMaxDistance
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].TangentMultiplier
+    value: 1.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].ReferencePointHeight
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].ReferencePointHeightMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].GroundOffsetX
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].GroundOffsetY
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 10b485081141726418d7618ef6d6786b,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].OffsetY
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[0].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 1561f13bef2c9024aba21f52f3e0b308,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].OffsetY
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[1].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 361d25ae97c7d4645b93641790e7eb30,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].NodeProbability
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].OffsetY
+    value: 1.11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[2].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].NodeType
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].NodeObjectRef
+    value: 
+    objectReference: {fileID: 8914034154316574454, guid: 1b84c0e727e1ca3418ad05f94243e46d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].NodeProbability
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].OffsetY
+    value: 1.79
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[3].OffsetX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].NodeObjectRef
+    value: 
+    objectReference: {fileID: 7813769127204332587, guid: 9db92114d6c07ee44893c167ccf7c84c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].MaxOfThisKind
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].NodeProbability
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].OffsetY
+    value: 7.71
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[4].OffsetX
+    value: 5.06
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].NodeType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].NodeObjectRef
+    value: 
+    objectReference: {fileID: 7463360447542202074, guid: d62fccf927177cc409dd6e58cb164e63,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].MaxOfThisKind
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].NodeProbability
+    value: 106.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[5].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].NodeObjectRef
+    value: 
+    objectReference: {fileID: 4050853268725708394, guid: 7703014b5ca8ff242b98ff3e36628da6,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].MaxOfThisKind
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].NodeProbability
+    value: 38.3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[6].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].NodeType
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].NodeObjectRef
+    value: 
+    objectReference: {fileID: 5318633853843999229, guid: d05f01c2ded9b78418b749ed8c48112c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].MaxOfThisKind
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].NodeProbability
+    value: 35.77
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].OffsetY
+    value: 7.65
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneParameters.Array.data[2].NodeObjects.Array.data[7].OffsetX
+    value: 10.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MainSpriteSides.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SceneExitPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RepeatingBackgroundPrefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RepeatingBackground
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ReferencePointMinDistance
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RepeatingBackgroundWidth
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TangentMultiplier
+    value: 1.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ReferencePointMaxDistance
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ReferencePointHeight
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ReferencePointHeightMultiplier
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GroundOffsetX
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GroundOffsetY
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PostPrefab
+    value: 
+    objectReference: {fileID: 3754561352891821469, guid: 14292978ad36ca64b93cf45cc24f9a7a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: NodeObjHolder
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: NodeObjects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: OccupiedNodes.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: OccupiedNodesAttaches.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LastSetup
+    value: 
+    objectReference: {fileID: 0}

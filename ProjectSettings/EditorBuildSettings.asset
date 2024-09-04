@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Loader.unity
+    guid: 1292d89dde70c8d4da70802cf1b29240
+  - enabled: 1
+    path: Assets/_DPS/Scenes/RoundWorld1.unity
+    guid: 9ac38c59f5dc2034ca3e0ce1f0a8fb12
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorld2.unity
+    guid: 6d570a1dd5991c14bb4630ccf6863fb6
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien1.2.unity
+    guid: c9b4190d52745a645beedbe04c7a5af4
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien3.unity
+    guid: d7d0f61e1fcf7d548b3e08c709aa3b5c
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorld.2.unity
+    guid: 21b12c8c58cd2f94386eae4823b1b5e1
+  - enabled: 1
+    path: Assets/_DPS/Scenes/AlienTwist.unity
+    guid: f0010ff8456afee4a9a7e5ab0be0452b
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorldUpTube.unity
+    guid: 18cc66068a6887541b87d7dfee301622
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Desert1.unity
+    guid: e31edddb3039474419659bcd4bd00b38
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorldDownTube.unity
+    guid: 1e6e2154af6138b4987a28d8d75eb635
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien2.2.unity
+    guid: 5192b58b086a3cf4c99f79443fa82002
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorld2.2.unity
+    guid: 27372112f184f0548b5a64bb96e3be1b
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien3.2.unity
+    guid: f9d36710ff4dfe6499bd18f72b575489
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorldUpTube.2.unity
+    guid: 5d0c53fc0c92e8e43b3dbd0a7cd67bc0
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Alien2.unity
+    guid: 2c9d3ab504ea2724da0a6724b15d7b41
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorld.unity
+    guid: b867bb880533b854795b3b0b2954df77
+  - enabled: 1
+    path: Assets/_DPS/Scenes/Desert1.2.unity
+    guid: 344533e6a19fed8408e027190a600d98
+  - enabled: 1
+    path: Assets/_DPS/Scenes/WaterWorldDownTube.2.unity
+    guid: 31bd80f5fc0af58418310042f9a02893
+  - enabled: 1
+    path: Assets/_DPS/Scenes/AlienTwist.2.unity
+    guid: f96d39d3059a50448a7049fa5c1d3477
+  m_configObjects: {}

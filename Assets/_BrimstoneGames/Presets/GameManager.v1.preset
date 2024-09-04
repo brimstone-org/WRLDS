@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameManager.v1
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: ad796c4793f42704aa2d4a3c05c9840e,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LoadFromSceneId
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerPrefab
+    value: 
+    objectReference: {fileID: 6926092486110831514, guid: 8a82f5ada84534049ae0c6e13c5b6fbb,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PlayerParams.NumberOfLives
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerParams.NumberOfArmor
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerParams.PlayerScore
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerParams.LastScene
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerMaterial
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSpeed
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].SceneName
+    value: RoundWorld1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[0].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].SceneName
+    value: Alien1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[1].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].SceneName
+    value: Alien3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[2].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].SceneName
+    value: Alien2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[3].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].SceneName
+    value: AlienTwist
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[4].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].SceneName
+    value: Desert1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].PlayerJumpHeight
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].PlayerJumpLength
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].PlayerGravityScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[5].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].SceneName
+    value: WaterWorld
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].PlayerJumpHeight
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].PlayerJumpLength
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].PlayerGravityScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].PlayerSpeed
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[6].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].SceneName
+    value: WaterWorld2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].PlayerJumpHeight
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].PlayerJumpLength
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].PlayerGravityScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].PlayerSpeed
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[7].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].SceneName
+    value: WaterWorldUpTube
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].PlayerJumpHeight
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].PlayerJumpLength
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].PlayerGravityScale
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[8].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].SceneName
+    value: WaterWorldDownTube
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].PlayerJumpHeight
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].PlayerJumpLength
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].DoubleTapTimer
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].PlayerGravityScale
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].PlayerMaterial
+    value: 
+    objectReference: {fileID: 6200000, guid: 31f70deb2a80615488dc98029c3915df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].PlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].MaxHealth
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerSceneParams.Array.data[9].MaxArmor
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FirstLevel
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LastSavedLevel
+    value: 0
+    objectReference: {fileID: 0}

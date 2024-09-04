@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 22c04da565414b547b09d92954df4a45
+timeCreated: 1525509307
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Whitney Semibold
+  fontNames:
+  - Whitney Semibold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e4095b49160c8de4cb259b90f31e1344, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

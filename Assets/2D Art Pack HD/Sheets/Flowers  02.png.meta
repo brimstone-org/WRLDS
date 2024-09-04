@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 8309ca72c368d3c4abceea05c7023d81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Flowers  02_0
+  - first:
+      213: 21300002
+    second: Flowers  02_1
+  - first:
+      213: 21300004
+    second: Flowers  02_2
+  - first:
+      213: 21300006
+    second: Flowers  02_3
+  - first:
+      213: 21300008
+    second: Flowers  02_4
+  - first:
+      213: 21300010
+    second: Flowers  02_5
+  - first:
+      213: 21300012
+    second: Flowers  02_6
+  - first:
+      213: 21300014
+    second: Flowers  02_7
+  - first:
+      213: 21300016
+    second: Flowers  02_8
+  - first:
+      213: 21300018
+    second: Flowers  02_9
+  - first:
+      213: 21300020
+    second: Flowers  02_10
+  - first:
+      213: 21300022
+    second: BackgroundFlowa07
+  - first:
+      213: 21300024
+    second: BackgroundFlowa06
+  - first:
+      213: 21300026
+    second: BackgroundFlowa05
+  - first:
+      213: 21300028
+    second: BackgroundFlowa04
+  - first:
+      213: 21300030
+    second: BackgroundFlowa03
+  - first:
+      213: 21300032
+    second: BackgroundFlowa02
+  - first:
+      213: 21300034
+    second: BackgroundFlowa01
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flowers  02_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1720
+        width: 380
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e97829dd07eab40a09133404b25c8f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1726
+        width: 381
+        height: 318
+      alignment: 9
+      pivot: {x: 0.38888222, y: 0.04235955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fb3aff24c9a684481a14dc92d55886
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1669
+        width: 401
+        height: 375
+      alignment: 9
+      pivot: {x: 0.40762123, y: 0.027249023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d4953d58af5ef49a82dbc45450c675
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1720
+        width: 433
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156b58ab5ece9249a873314716fcb23
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1227
+        width: 535
+        height: 389
+      alignment: 9
+      pivot: {x: 0.3911929, y: 0.051065244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c29f02e2b45064eb5916c4f848a302
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_5
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1205
+        width: 443
+        height: 465
+      alignment: 9
+      pivot: {x: 0.46416286, y: 0.0732267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e1dcd68f995b4d8a780c827f99a45
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1297
+        width: 430
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911961f211dd254d952f4d53e6ac8b7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1331
+        width: 431
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1ee0726178dc6428127f78caeec564
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 752
+        width: 513
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670df5a30ae56c419719b9e16f51a9c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 723
+        width: 505
+        height: 484
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7eb957d8a933a4b9b261fdcfa69993
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers  02_10
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 661
+        width: 506
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22786e87ca792c9458a703c29d771882
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa07
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 115
+        width: 175
+        height: 332
+      alignment: 9
+      pivot: {x: 0.8869985, y: 0.036022395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22580db56a40b4ea0995a91e2c8a53
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa06
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 78
+        width: 119
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb3de706cb5f440b4b87ba4e4ba8ce
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa05
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 90
+        width: 276
+        height: 357
+      alignment: 9
+      pivot: {x: 0.4951884, y: 0.0610745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6a72435bdd2d43a42ce3989ee9cb0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa04
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 90
+        width: 276
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05363509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d38989d31d40b4d8b4b11d3aad4fb4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa03
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 78
+        width: 307
+        height: 506
+      alignment: 9
+      pivot: {x: 0.41781506, y: 0.043358166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b0c2d7c04454b429b3cf67f6204993
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa02
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 320
+        height: 467
+      alignment: 9
+      pivot: {x: 0.51659906, y: 0.045032576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d122b5ef7ee6ca418f5ed017f1e6ab2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundFlowa01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 78
+        width: 399
+        height: 466
+      alignment: 9
+      pivot: {x: 0.45340577, y: 0.061154198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96694a1feb390f4f86cf0deefa5007d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

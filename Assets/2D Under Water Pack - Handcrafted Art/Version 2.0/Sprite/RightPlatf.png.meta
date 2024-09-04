@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 53c1ff5a5a3d87c4092002cb6d58d904
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RightPlatf_0
+  - first:
+      213: 21300002
+    second: RightPlatf_1
+  - first:
+      213: 21300004
+    second: RightPlatf_2
+  - first:
+      213: 21300006
+    second: RightPlatf_3
+  - first:
+      213: 21300008
+    second: RightPlatf_4
+  - first:
+      213: 21300010
+    second: RightPlatf_5
+  - first:
+      213: 21300012
+    second: RightPlatf_6
+  - first:
+      213: 21300014
+    second: RightPlatf_7
+  - first:
+      213: 21300016
+    second: RightPlatf_8
+  - first:
+      213: 21300018
+    second: RightPlatf_9
+  - first:
+      213: 21300020
+    second: RightPlatf_10
+  - first:
+      213: 21300022
+    second: RightPlatf_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightPlatf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 552
+        height: 449
+      alignment: 9
+      pivot: {x: 0.40060833, y: 0.15088026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9628af031049e42b5037dd8004a6f6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1190
+        width: 520
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d7c6f326b9af4a94d947d16a6bd48
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1365
+        width: 246
+        height: 603
+      alignment: 9
+      pivot: {x: 0.72302496, y: 0.049405884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57124a26990f2f448fe36c70ff8baae
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_3
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1349
+        width: 123
+        height: 484
+      alignment: 9
+      pivot: {x: 0.47875977, y: 0.10055618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8294e0a8321b1bc439146395833f6def
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_4
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1344
+        width: 146
+        height: 703
+      alignment: 9
+      pivot: {x: 0.55368334, y: 0.06890582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6cbe3218a73949b8ba64755edfc0b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_5
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1524
+        width: 502
+        height: 478
+      alignment: 9
+      pivot: {x: 0.46877384, y: 0.15019833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d269d1e1044b594891754e1da69b8b6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 471
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8447e7a73eed4fb915828f81f20cd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1723
+        width: 167
+        height: 272
+      alignment: 9
+      pivot: {x: 0.39049014, y: 0.17342736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe1b408717f1b444a33b4a93e0e9691
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_8
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 518
+        width: 1096
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacdf0a64706c4498fd5eb3ad0d70f4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 489
+        height: 455
+      alignment: 9
+      pivot: {x: 0.49465737, y: 0.1210325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851bd04d70f3be64fb7bebd8e80e4c3e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 85
+        width: 693
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953ae589e81792499aeec8c03408e9c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPlatf_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 46
+        width: 512
+        height: 501
+      alignment: 9
+      pivot: {x: 0.58674574, y: 0.06717762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d924d32a2259e41a977ee1ec96bdab
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

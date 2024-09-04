@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 1ede6579533779a469df372658d1c686
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PlantsMushroom_0
+  - first:
+      213: 21300002
+    second: PlantsMushroom_1
+  - first:
+      213: 21300004
+    second: PlantsMushroom_2
+  - first:
+      213: 21300006
+    second: PlantsMushroom_3
+  - first:
+      213: 21300008
+    second: PlantsMushroom_4
+  - first:
+      213: 21300010
+    second: PlantsMushroom_5
+  - first:
+      213: 21300012
+    second: PlantsMushroom_6
+  - first:
+      213: 21300014
+    second: PlantsMushroom_7
+  - first:
+      213: 21300016
+    second: PlantsMushroom_8
+  - first:
+      213: 21300018
+    second: PlantsMushroom_9
+  - first:
+      213: 21300020
+    second: PlantsMushroom_10
+  - first:
+      213: 21300022
+    second: PlantsMushroom_11
+  - first:
+      213: 21300024
+    second: PlantsMushroom_12
+  - first:
+      213: 21300026
+    second: PlantsMushroom_13
+  - first:
+      213: 21300028
+    second: PlantsMushroom_14
+  - first:
+      213: 21300030
+    second: PlantsMushroom_15
+  - first:
+      213: 21300032
+    second: PlantsMushroom_16
+  - first:
+      213: 21300034
+    second: PlantsMushroom_17
+  - first:
+      213: 21300036
+    second: PlantsMushroom_18
+  - first:
+      213: 21300038
+    second: PlantsMushroom_19
+  - first:
+      213: 21300040
+    second: PlantsMushroom_20
+  - first:
+      213: 21300042
+    second: PlantsMushroom_21
+  - first:
+      213: 21300044
+    second: PlantsMushroom_22
+  - first:
+      213: 21300046
+    second: PlantsMushroom_23
+  - first:
+      213: 21300048
+    second: PlantsMushroom_24
+  - first:
+      213: 21300050
+    second: PlantsMushroom_25
+  - first:
+      213: 21300052
+    second: PlantsMushroom_26
+  - first:
+      213: 21300054
+    second: PlantsMushroom_27
+  - first:
+      213: 21300056
+    second: PlantsMushroom_28
+  - first:
+      213: 21300058
+    second: PlantsMushroom_29
+  - first:
+      213: 21300060
+    second: PlantsMushroom_30
+  - first:
+      213: 21300062
+    second: PlantsMushroom_31
+  - first:
+      213: 21300064
+    second: PlantsMushroom_32
+  - first:
+      213: 21300066
+    second: PlantsMushroom_33
+  - first:
+      213: 21300068
+    second: PlantsMushroom_34
+  - first:
+      213: 21300070
+    second: PlantsMushroom_35
+  - first:
+      213: 21300072
+    second: PlantsMushroom_36
+  - first:
+      213: 21300074
+    second: PlantsMushroom_37
+  - first:
+      213: 21300076
+    second: PlantsMushroom_38
+  - first:
+      213: 21300078
+    second: PlantsMushroom_39
+  - first:
+      213: 21300080
+    second: PlantsMushroom_40
+  - first:
+      213: 21300082
+    second: PlantsMushroom_41
+  - first:
+      213: 21300084
+    second: PlantsMushroom_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlantsMushroom_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3537
+        width: 732
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce35355e82ce4ad49bf89b796b9f0bda
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3268
+        width: 532
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f653abc5dda2049968cabada67091c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_2
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3773
+        width: 374
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598bf4c283028949b9d21135eaafa35
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_3
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 3302
+        width: 306
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144934b90640e1448684f65d161eb02
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_4
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 3345
+        width: 1024
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f659519ef27340826588b92dbcac0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_5
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3356
+        width: 439
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d557b57c6821c24c9582500c936b16f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_6
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 3365
+        width: 504
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5246c912ba7184fad8959b283f67de
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_7
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 2119
+        width: 1409
+        height: 1116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab7d677edef9743ab794089b29e0c7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_8
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2757
+        width: 552
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea5eb96c66393e45b6ca4cd8ec7b34f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_9
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2692
+        width: 709
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e170d28117b54d44919a1f1949897ba
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_10
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1949
+        width: 790
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073a7381020cd964e8dbcf16e26659bc
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_11
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2066
+        width: 474
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13019ba55996c4c9db6938f4da8205
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_12
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 869
+        width: 691
+        height: 1101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c0f5fe8395f8846b42c09065a8c54b
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_13
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1422
+        width: 220
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c8e5634b46237428da53fdc29039bc
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_14
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 900
+        width: 259
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140c99cad1c78b4188b548220fbbbf3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_15
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 864
+        width: 273
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31761aeaec8928242b20383bc640d8ae
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_16
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 910
+        width: 319
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842830ef7ebffd44390a9c1e4c8b2e34
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_17
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 862
+        width: 335
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c6cec9f2197684dae2d97f322bceac
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_18
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 639
+        width: 338
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6f3613b3a8e94c90b9e86f61d59fc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_19
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 575
+        width: 502
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6ffb5914cb5e74383949d14d06aeeb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_20
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 675
+        width: 306
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88aeb386e820943bbfaffb9e3d9187
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_21
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 379
+        width: 368
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b88495ce722b4f4892d57b5b4a3e825
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_22
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 180
+        width: 546
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2446379330d034581331ca4f34342a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_23
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 35
+        width: 825
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588278e81186f446b6606bec358f469
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_24
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 370
+        width: 452
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d595c07dabde58746a595213e9e5b82a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_25
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 389
+        width: 460
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19171f4d0acc444bb6e32537958802
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_26
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 787
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3368286025f20438564f5d10875971
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_27
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 379
+        width: 481
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69d739b5d70bb44da482e807d111762
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_28
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 606
+        width: 476
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8621a901d6ff24c932f49870f2b4d6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_29
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 827
+        width: 551
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f9085d9965c32419e6123aaf1b46a0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_30
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1068
+        width: 721
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9394b1649c3167f449cbf23366104e6c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 1074
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac8fbfdd1653944b076175fdaf1960
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 654
+        width: 1002
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e8cf72e79fd0f4c8d87a7181ecb0e5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 882
+        width: 419
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c1d927926eed4dbcdaea65fda91b8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_34
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 925
+        width: 228
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a22c75defae67498cdcf7f512bd77f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_35
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 932
+        width: 220
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987607db6ae255a41871c3f56e1c7ba6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1188
+        width: 996
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429c798e60a7fe749ab3e916007fcf6c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1647
+        width: 852
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4e4393a01f00409282cf911c2021e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_38
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1502
+        width: 996
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17531f8d89e37634ca6bb8c18bff3b02
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2563
+        width: 487
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17b2fd5f33ab2045b00981bc5860a6e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2243
+        width: 540
+        height: 1049
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21487ba6040805b4cb05c4e3a5094bdc
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_41
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1396
+        width: 276
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b28080c86b8a428711937d8226832
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantsMushroom_42
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1384
+        width: 294
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0db13127ec77f45abe35f45e0ec1c6
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

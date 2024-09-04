@@ -1,0 +1,6 @@
+framework module WRLDSSDK {
+  umbrella header "WRLDSSDK.h"
+
+  export *
+  module * { export * }
+}

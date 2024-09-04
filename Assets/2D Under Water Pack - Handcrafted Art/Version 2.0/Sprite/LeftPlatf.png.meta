@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 4a6805becba6bee4daac78c3a0082bef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LeftPlatf_0
+  - first:
+      213: 21300002
+    second: LeftPlatf_1
+  - first:
+      213: 21300004
+    second: LeftPlatf_2
+  - first:
+      213: 21300006
+    second: LeftPlatf_3
+  - first:
+      213: 21300008
+    second: LeftPlatf_4
+  - first:
+      213: 21300010
+    second: LeftPlatf_5
+  - first:
+      213: 21300012
+    second: LeftPlatf_6
+  - first:
+      213: 21300014
+    second: LeftPlatf_7
+  - first:
+      213: 21300016
+    second: LeftPlatf_8
+  - first:
+      213: 21300018
+    second: LeftPlatf_9
+  - first:
+      213: 21300020
+    second: LeftPlatf_10
+  - first:
+      213: 21300022
+    second: LeftPlatf_11
+  - first:
+      213: 21300024
+    second: LeftPlatf_12
+  - first:
+      213: 21300026
+    second: LeftPlatf_13
+  - first:
+      213: 21300028
+    second: LeftPlatf_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftPlatf_0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 769
+        width: 1146
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb59235c551ee54d8035b9588b1c874
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_1
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 568
+        width: 314
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cafb2176332a4db7d8f72d070750f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_2
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1159
+        width: 411
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bfe2bf7cd04304290379c82e545068
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_3
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1556
+        width: 434
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55585497b72e84ca4bd6e7a257c2fc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_4
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1767
+        width: 583
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e028e739f1decc04b80fc5ebd1d764b4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1383
+        width: 251
+        height: 502
+      alignment: 9
+      pivot: {x: 0.39591292, y: 0.08885697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a5fb158c54f542ae16200d4112a55
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1420
+        width: 282
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5833801, y: 0.0629513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702592f346367d408050e581890d283
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 294
+        height: 619
+      alignment: 9
+      pivot: {x: 0.52665865, y: 0.035729133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058a03e3f53c29c419e97cda10889c48
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 714
+        width: 444
+        height: 502
+      alignment: 9
+      pivot: {x: 0.47057918, y: 0.08365282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b8501d07805c4184e9a55b4e15ad8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 43
+        width: 222
+        height: 624
+      alignment: 9
+      pivot: {x: 0.7824405, y: 0.06875704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5d2071c1ce9048add14e8687fe3c3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_10
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 56
+        width: 156
+        height: 452
+      alignment: 9
+      pivot: {x: 0.3492729, y: 0.06649672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0707368903309449005c8e99b70063
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_11
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 56
+        width: 188
+        height: 679
+      alignment: 9
+      pivot: {x: 0.49999934, y: 0.04212526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6078a658411b4187a4c42cf45dc83
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 465
+        height: 328
+      alignment: 9
+      pivot: {x: 0.43819696, y: 0.12563659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbef23fe1435f447b62f21d0efc83b7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_13
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 77
+        width: 271
+        height: 426
+      alignment: 9
+      pivot: {x: 0.7217315, y: 0.09523424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3bba955847984b9a9f98e230e3714
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPlatf_14
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 19
+        width: 228
+        height: 458
+      alignment: 9
+      pivot: {x: 0.39687148, y: 0.16344519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42403f2a7e771349b59d0ee6709e3af
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

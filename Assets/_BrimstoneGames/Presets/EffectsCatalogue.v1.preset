@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EffectsCatalogue.v1
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 0e880f24f97f3654090cf37e3efcaeba,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 2fc7d709894cf254d95d2864548f7b40, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: b2972f8c688c0ff41b0d0e2f55c7db98, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: ff330aa9ce27df944a13b7edf41d8faf, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7263cbbd31216664d844ca5d867fedb3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: e72be966ad0f07243a8aa4bfb5f6605a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[5]
+    value: 
+    objectReference: {fileID: 11400000, guid: 5da3f9063b9258c43be2ce50177540ba, type: 2}
+  - target: {fileID: 0}
+    propertyPath: Effects.Array.data[6]
+    value: 
+    objectReference: {fileID: 11400000, guid: 97316b2d8fb5ef04b9e1ecf7ebb99e41, type: 2}

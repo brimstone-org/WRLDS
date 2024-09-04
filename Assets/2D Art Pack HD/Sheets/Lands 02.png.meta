@@ -1,0 +1,1513 @@
+fileFormatVersion: 2
+guid: 2b7bf3924c89066438bb666ee3aa0ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Lands 02_0
+  - first:
+      213: 21300002
+    second: Lands 02_1
+  - first:
+      213: 21300004
+    second: Lands 02_2
+  - first:
+      213: 21300006
+    second: Lands 02_3
+  - first:
+      213: 21300008
+    second: Lands 02_4
+  - first:
+      213: 21300010
+    second: Lands 02_5
+  - first:
+      213: 21300012
+    second: Lands 02_6
+  - first:
+      213: 21300014
+    second: Cut 01
+  - first:
+      213: 21300016
+    second: Cut 02
+  - first:
+      213: 21300018
+    second: Lands 02_7
+  - first:
+      213: 21300020
+    second: Cut 03
+  - first:
+      213: 21300022
+    second: Cliff S L
+  - first:
+      213: 21300024
+    second: Cliff S R
+  - first:
+      213: 21300026
+    second: Cliff M L
+  - first:
+      213: 21300028
+    second: Cliff M R
+  - first:
+      213: 21300030
+    second: Cliff L L
+  - first:
+      213: 21300032
+    second: Cliff L R
+  - first:
+      213: 21300034
+    second: Trap land
+  - first:
+      213: 21300036
+    second: Trap Land Cut
+  - first:
+      213: 21300038
+    second: Cave
+  - first:
+      213: 21300040
+    second: eyes 02
+  - first:
+      213: 21300042
+    second: eyes 01
+  - first:
+      213: 21300044
+    second: Eye Pupil
+  - first:
+      213: 21300046
+    second: Spider Body
+  - first:
+      213: 21300048
+    second: Spider Eyes
+  - first:
+      213: 21300050
+    second: Spider Eyes Angry
+  - first:
+      213: 21300052
+    second: Spider legs
+  - first:
+      213: 21300054
+    second: Spider eyes closed
+  - first:
+      213: 21300056
+    second: Spider Fat
+  - first:
+      213: 21300058
+    second: Land For Traps
+  - first:
+      213: 21300060
+    second: Trap End L
+  - first:
+      213: 21300062
+    second: Trap End R
+  - first:
+      213: 21300064
+    second: Trap Top L
+  - first:
+      213: 21300066
+    second: Trap Top R
+  - first:
+      213: 21300068
+    second: Lands 02_8
+  - first:
+      213: 21300070
+    second: Lands 02_9
+  - first:
+      213: 21300072
+    second: Lands 02_10
+  - first:
+      213: 21300074
+    second: Lands 02_11
+  - first:
+      213: 21300076
+    second: Lands 02_12
+  - first:
+      213: 21300078
+    second: Lands 02_13
+  - first:
+      213: 21300080
+    second: Lands 02_14
+  - first:
+      213: 21300082
+    second: Lands 02_15
+  - first:
+      213: 21300084
+    second: Lands 02_16
+  - first:
+      213: 21300086
+    second: Lands 02_17
+  - first:
+      213: 21300088
+    second: Lands 02_18
+  - first:
+      213: 21300090
+    second: Lands 02_19
+  - first:
+      213: 21300092
+    second: LARGE Curved land Cut
+  - first:
+      213: 21300094
+    second: Cut 11
+  - first:
+      213: 21300096
+    second: Cut 10
+  - first:
+      213: 21300098
+    second: Cliff M L Cut
+  - first:
+      213: 21300100
+    second: Cliff M R Cut
+  - first:
+      213: 21300102
+    second: spider black bg
+  - first:
+      213: 21300104
+    second: CutSmall
+  - first:
+      213: 21300106
+    second: Cut Left
+  - first:
+      213: 21300108
+    second: Cut Right
+  - first:
+      213: 21300110
+    second: Cut End Right
+  - first:
+      213: 21300112
+    second: Cut end left
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lands 02_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1931
+        width: 887
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052f9d3edac5c84491fbb21eaf99f5e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1932
+        width: 185
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38877cf42823c24e8ec41d99ec5949c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1925
+        width: 318
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5129766bfb4edf458286bb0cf6f0d79
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1921
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4778b5c059dc429e08d58e30148f7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_4
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1910
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d638c96120745743913f56342dc3ad7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_5
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1619
+        width: 346
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351e7fb34629e3428da5ea894c6f52b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1678
+        width: 675
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74800bb5036f226428a19449f5337f14
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut 01
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1678
+        width: 472
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ca629aca4764241867c8c31c9644ad
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut 02
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1621
+        width: 203
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1cfd3800c8a749972448e4de3cf74
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1673
+        width: 829
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253ce70204ca3a42beca5bb901b386d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut 03
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1673
+        width: 676
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926c711a75967f4ca0203ffc70d8b1f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff S L
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1539
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a927edd857a5a4cbdf701afc0943ec
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff S R
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1536
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf638e9cdc0dbbb44b6de6ef3bce1031
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff M L
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1305
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5305f270998e6469eebfabc7b168f6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff M R
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1308
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeaf2904a2bcf74fa34bf82f1b6c4b0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff L L
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 956
+        width: 153
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77826bcc84ada5442953addffbd033d0
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff L R
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 957
+        width: 153
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b461687f6f3df5449ea9518aa725318
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap land
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1107
+        width: 507
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef116521d4b99a448739487a8dfb09f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Land Cut
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1107
+        width: 369
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff8c2fd47d10c94298a77fe6bb55e49
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1334
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5923b1116d7bd724296b5a6297b948cb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes 02
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1363
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561592d0103ab64387dda5aa0860937
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes 01
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1359
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f4a196ad3b1054ab6bea4f9483aa7a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye Pupil
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1365
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63635f37f4b86534680a359972704998
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Body
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1338
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9369a37d6afccd4783fbbfac768e594
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Eyes
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1347
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689392bd37dfe1e428802f313cdd98d0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Eyes Angry
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1345
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b6d6c9d34f6342bee7f95e03b2457
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider legs
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1324
+        width: 38
+        height: 58
+      alignment: 9
+      pivot: {x: 0.041251734, y: 0.70209795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dff53bedaaf5f46ace5a00e5123224
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider eyes closed
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1350
+        width: 33
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fdf717c9ef7464cae7190821005e72
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Fat
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1198
+        width: 161
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c53d84bd9341409ca0fe5f1cc7b2b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land For Traps
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1399
+        width: 271
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974fb54e9a84c3746bcf52ebf6236331
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap End L
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1551
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde427d0b614c74bb34a50a0d6090c2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap End R
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1551
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ed03acfd51c04f814593f74f0f14b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Top L
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1541
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4fba96df93ec541a8f05a5eb1cfbfc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Top R
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1541
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f018e8eeaff54daa668e2f44e6dd2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1395
+        width: 273
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf65a524ffd8749850977f94a6c09e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1493
+        width: 510
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716b9c67ba8f6e4283fe77378bd2306
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_10
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1474
+        width: 391
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254290a827644f42b20ce33f4c9d665
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_11
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1156
+        width: 734
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044b9099df539f449218ffcfb5e3aa6
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_12
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 929
+        width: 368
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d47ae4e4f102034d81fdab37e53e5db
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 945
+        width: 451
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9af0517dd26ac43837f630551b25ef
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 965
+        width: 186
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed651c7a5ce10dd4b8a3d5a27aea7447
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 682
+        width: 1996
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ec94bc29e39943aa04c2dd880280a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 1985
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff070aa54e6e87e41ae7812fb1f23e4d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_17
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 12
+        width: 625
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85cd8b5ab8135b4baa86ef3272b278f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 12
+        width: 625
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a535fa4b7a12043a5643760deef1f9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands 02_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 672
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7ec6b5a3b71243ac44b5f04909d65
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LARGE Curved land Cut
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 315
+        width: 1808
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70ddb1ebe5a3047a737e3d102851cb
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut 11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 16
+        width: 330
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144078de5722a0343853eb0d883d3fe2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut 10
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 15
+        width: 355
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc79014ef98ac424f9142404e62da21f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff M L Cut
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1305
+        width: 76
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61bc21a31e6e0b4296ac3b6c6edd7fb
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff M R Cut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1308
+        width: 74
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0f20bc1879b644f972dcc9bc5a2afc
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider black bg
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1303
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14f740d912350140b9500849efa7be2
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutSmall
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1932
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc3a489dd559384cb475d0fa1a5da97
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut Left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1933
+        width: 262
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deaf2edab416e44481f5dcde07258da
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut Right
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1933
+        width: 177
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a1c3b40d9f9a43b07c8c1a32ef771
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut End Right
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1933
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75df68e1d92ce2498140eb0397371ab
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cut end left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1933
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966e9a61c501b048bd50919c0cabad7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

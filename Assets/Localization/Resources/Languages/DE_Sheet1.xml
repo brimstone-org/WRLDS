@@ -1,0 +1,38 @@
+<entries>
+<entry name="REPLAY_BTN">ERNEUT SPIELEN</entry>
+<entry name="CONTEXT_DURATION_1">Bonus: Zeit verlangsamt!</entry>
+<entry name="ABORT_BTN">FORTSETZEN</entry>
+<entry name="NEXT_GAME_2">ENDSTAND</entry>
+<entry name="SCORE_TOP_TXT_1_1">Top Score: {0}</entry>
+<entry name="CONTEXT_DURATION_2">Zeit:</entry>
+<entry name="CONTEXT_DELAY">Warten!</entry>
+<entry name="SCORE_TXT_1">Alama: {0}</entry>
+<entry name="QUIT_BTN">BEENDEN</entry>
+<entry name="GAME_3">ROCK</entry>
+<entry name="SCORE_LOSS_1">Gesamtzahl Verpasste</entry>
+<entry name="SCORE_TOP_TXT_3_1">Top Score: {0}</entry>
+<entry name="GAME_1">INTRO LIED</entry>
+<entry name="SCORE_TOP_TXT_2_1">Top Score: {0}</entry>
+<entry name="CANCEL_BTN">ABBRECHEN</entry>
+<entry name="BONUS_TXT_2">Bonus: verlangsamte Zeit!</entry>
+<entry name="GAME_4">HARD ROCK</entry>
+<entry name="GAME_5">VERRÜCKT</entry>
+<entry name="GAME_2">EASY LIED</entry>
+<entry name="SCORE_TOP_TXT_5_1">Top Score: {0}</entry>
+<entry name="PLAY_BTN">SPIELEN</entry>
+<entry name="SCORE_TOP_TXT_4_1">Top Score: {0}</entry>
+<entry name="NEXT_BTN">VORWÄRTS</entry>
+<entry name="QUIT_MSG">Bist du sicher?</entry>
+<entry name="GAME_6">UNMÖGLICH</entry>
+<entry name="SCORE_WIN_1">Gefangene Pfeile</entry>
+<entry name="TARGET_TXT">Sollwert</entry>
+<entry name="CLOSE_BTN">SCHLIESSEN</entry>
+<entry name="BONUS_TXT_1">Bonus: {0} Zusätzliches Leben!</entry>
+<entry name="SCORE_TOP_TXT_END_1">Gefangene Pfeile=IFERROR(Dance!E29__xludf.DUMMYFUNCTION(&quot;GoogleTranslate($B28,$B$1,C$1)&quot;),&quot;Top Score: {0}&quot;)</entry>
+<entry name="INSTRUCTIONS_1">Schlage den Ball um die Pfeile zu fangen! Verfehlst du nacheinander {0} mal, verlierst du!</entry>
+<entry name="NEXT_GAME_1">VORWÄRTS</entry>
+<entry name="INSTRUCTIONS_2">Schlage den Ball um die Pfeile zu fangen! Verfehlst du nacheinander {0} mal, verlierst du!</entry>
+<entry name="SCORE_TOP_TXT_6_1">Top Score: {0}</entry>
+<entry name="CONTEXT_DURATION">Zeit:</entry>
+<entry name="BACK_BTN">ZURÜCK</entry>
+</entries>

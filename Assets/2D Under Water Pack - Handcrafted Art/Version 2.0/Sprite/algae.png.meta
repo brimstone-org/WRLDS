@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: adb7b8e231cee0a41ad0d6b0851af4b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: algae_0
+  - first:
+      213: 21300002
+    second: algae_1
+  - first:
+      213: 21300004
+    second: algae_2
+  - first:
+      213: 21300006
+    second: algae_3
+  - first:
+      213: 21300008
+    second: algae_4
+  - first:
+      213: 21300010
+    second: algae_5
+  - first:
+      213: 21300012
+    second: algae_6
+  - first:
+      213: 21300014
+    second: algae_7
+  - first:
+      213: 21300016
+    second: algae_8
+  - first:
+      213: 21300018
+    second: algae_9
+  - first:
+      213: 21300020
+    second: algae_10
+  - first:
+      213: 21300022
+    second: algae_11
+  - first:
+      213: 21300024
+    second: algae_12
+  - first:
+      213: 21300026
+    second: algae_13
+  - first:
+      213: 21300028
+    second: algae_14
+  - first:
+      213: 21300030
+    second: algae_15
+  - first:
+      213: 21300032
+    second: algae_16
+  - first:
+      213: 21300034
+    second: algae_17
+  - first:
+      213: 21300036
+    second: algae_18
+  - first:
+      213: 21300038
+    second: algae_19
+  - first:
+      213: 21300040
+    second: algae_20
+  - first:
+      213: 21300042
+    second: algae_21
+  - first:
+      213: 21300044
+    second: algae_22
+  - first:
+      213: 21300046
+    second: algae_23
+  - first:
+      213: 21300048
+    second: algae_24
+  - first:
+      213: 21300050
+    second: algae_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: algae_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 556
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a4c76557d57d47921ba9ac2a2fdce
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 356
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b845e38c688b14a832c6121ce73c65
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 401
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012404bfc2b6b44990ddd362cdd7aa7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 15
+        width: 408
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71780aeb6722d734ba0073d5b7534caa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_4
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 255
+        width: 567
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8800e9b18d707c1438ce364091dd22c0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_5
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 19
+        width: 418
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c11f38e8bffe054e9703b9d81621b18
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_6
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 406
+        width: 252
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d593e68e05c2c8f44805e24f0ae9c4d6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_7
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 584
+        width: 423
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a042cf662fcc0479275536516d5bad
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_8
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 882
+        width: 171
+        height: 439
+      alignment: 9
+      pivot: {x: 0.6833389, y: 0.04770836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe2e6b847265544b860edd9cc7cc21f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_9
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1067
+        width: 91
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23874173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60376deac1033a43979db6f9793734e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_10
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 960
+        width: 209
+        height: 329
+      alignment: 9
+      pivot: {x: 0.6125038, y: 0.12677428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e10c34f0d29794298e292dd04b5db6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 858
+        width: 193
+        height: 703
+      alignment: 9
+      pivot: {x: 0.6082935, y: 0.06890582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688aa67df8df824598d24bb8285f62d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_12
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 918
+        width: 162
+        height: 640
+      alignment: 9
+      pivot: {x: 0.54838055, y: 0.12444162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0c2827e60ae5042b606ca92ab60172
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 970
+        width: 436
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d1cdd2a5a80ff4dad11b6da1f2504d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 466
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0b21d4c93aab4c85d31e0f786fea0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1357
+        width: 317
+        height: 225
+      alignment: 9
+      pivot: {x: 0.51648295, y: 0.39549643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd67031144954747ae9124b64cec7ce
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1446
+        width: 421
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5204b361ea16ef49bbbf0d47155a83b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_17
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1719
+        width: 173
+        height: 282
+      alignment: 9
+      pivot: {x: 0.69632155, y: 0.12015658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282353857f34d6641869fa17366ac547
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1601
+        width: 249
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f6df3d651f4ce41b108db1f1edaf7c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1784
+        width: 217
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052e099c5731e2e4b8c9fb84c1ceb762
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_20
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1332
+        width: 146
+        height: 713
+      alignment: 9
+      pivot: {x: 0.5894717, y: 0.08594469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c7c359783ad6c4590b6f959f6746af
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_21
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1356
+        width: 130
+        height: 692
+      alignment: 9
+      pivot: {x: 0.41961107, y: 0.05827781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7632bd87ec9f3a41b7bbb730b100ee8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 485
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2611ee2a6897414ca29ddd14ec0c898
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 618
+        width: 403
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd4f3e8fb33ae47b380aba1126b688
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 634
+        width: 337
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665ca83c60ef9846bb5fe49de81d8c8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: algae_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 621
+        width: 308
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed9e215146089479e25c80406f4440
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 8463c3dc11d721c498ab199c51218aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bug 01
+  - first:
+      213: 21300002
+    second: Bug 02
+  - first:
+      213: 21300004
+    second: Bug 03
+  - first:
+      213: 21300006
+    second: Bug 04
+  - first:
+      213: 21300008
+    second: Bug 05
+  - first:
+      213: 21300010
+    second: Bug 06
+  - first:
+      213: 21300012
+    second: Bug 07
+  - first:
+      213: 21300014
+    second: Bug 08
+  - first:
+      213: 21300016
+    second: Bug 016
+  - first:
+      213: 21300018
+    second: Bug 015
+  - first:
+      213: 21300020
+    second: Bug 014
+  - first:
+      213: 21300022
+    second: Bug 13
+  - first:
+      213: 21300024
+    second: Bug 12
+  - first:
+      213: 21300026
+    second: Bug 11
+  - first:
+      213: 21300028
+    second: Bug 010
+  - first:
+      213: 21300030
+    second: Bug 09
+  - first:
+      213: 21300032
+    second: Plank 01
+  - first:
+      213: 21300034
+    second: Plank 02
+  - first:
+      213: 21300036
+    second: Plank 03
+  - first:
+      213: 21300038
+    second: Plank 04
+  - first:
+      213: 21300040
+    second: Sign Blank
+  - first:
+      213: 21300042
+    second: Sign Arrow
+  - first:
+      213: 21300044
+    second: Post 01
+  - first:
+      213: 21300046
+    second: Post02
+  - first:
+      213: 21300048
+    second: Arrow Wooden
+  - first:
+      213: 21300050
+    second: Cactus01
+  - first:
+      213: 21300052
+    second: Cactus02
+  - first:
+      213: 21300054
+    second: Cactus03
+  - first:
+      213: 21300056
+    second: Cactus04
+  - first:
+      213: 21300058
+    second: Cactus05
+  - first:
+      213: 21300060
+    second: Cactus06
+  - first:
+      213: 21300062
+    second: Cactus07
+  - first:
+      213: 21300064
+    second: Cactus08
+  - first:
+      213: 21300066
+    second: Cactus09
+  - first:
+      213: 21300068
+    second: Cactus010
+  - first:
+      213: 21300070
+    second: Screw01
+  - first:
+      213: 21300072
+    second: Screw02
+  - first:
+      213: 21300074
+    second: Cactus Flower
+  - first:
+      213: 21300076
+    second: Cactus crazy
+  - first:
+      213: 21300078
+    second: cactus crazytop
+  - first:
+      213: 21300080
+    second: End
+  - first:
+      213: 21300082
+    second: question mark
+  - first:
+      213: 21300084
+    second: '!'
+  - first:
+      213: 21300086
+    second: Skull
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bug 01
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1818
+        width: 177
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fe02131232f643a4547dbe4f637f2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1818
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc146d3b0bb504a9f9818e63470f80
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 03
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1819
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e483016584e13fc4095450249b1fef09
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 04
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1814
+        width: 176
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0a49841b87e64d9e531af42f2f487
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 05
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1835
+        width: 177
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d95e447dffac498ec21bd42117281
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 06
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1796
+        width: 178
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb5d55cada683b42b55b9549187ce5a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 07
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1789
+        width: 181
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74234613055f0c14aaf209eaa8a731a5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 08
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1761
+        width: 176
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a31c15d08d82458a8b6123b53f031
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 016
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1514
+        width: 178
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3db58dd9cc1d40973aaec217c9257
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 015
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1572
+        width: 177
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def20c94c6496849a02347eb05c0c43
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 014
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1548
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a827940c37ef4ebb77a0fc6d0ffcd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1570
+        width: 177
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5c483ce1d12f41a89da8181a0d4df
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1492
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1deb607eb4d444a74db2c226ad689
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1600
+        width: 177
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6dac1c1ad4dc41a664cee44bbd7a4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 010
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1543
+        width: 181
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fe384dc87a5947b0ec8e64a21aaf9
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug 09
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1552
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8445b8df615e4580935d3c068aa9b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank 01
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1342
+        width: 474
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba80355570c5f5418516c054967512f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank 02
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 478
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93663ecb5d9d261428aafda43fba0f9c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank 03
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 964
+        width: 371
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8952921ae3e5d42bc2a3556e6dea57
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank 04
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 790
+        width: 478
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c4c53f49557645a25275a334605e7
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign Blank
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1148
+        width: 486
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f86ea97f736d47a092ca02f0b5dd4
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign Arrow
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 794
+        width: 486
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5f22454b95b84685c415fb6dacf36
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post 01
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 804
+        width: 80
+        height: 661
+      alignment: 9
+      pivot: {x: 0.60628355, y: 0.011780524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eef4711509208409e6516f928cd53c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Post02
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 797
+        width: 80
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5740372, y: 0.013881916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2fb02bbf5d3e409a171db9b69d98c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Wooden
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1299
+        width: 420
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db799826b23df464eb74ef70d61059d5
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus01
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 902
+        width: 430
+        height: 355
+      alignment: 9
+      pivot: {x: 0.4866086, y: 0.04583259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc6f87e3f9adf4393cbb9043294782
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 199
+        height: 279
+      alignment: 9
+      pivot: {x: 0.4564091, y: 0.10098912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da072a6ac0d89b541a36fcfdd38ee6d7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 391
+        width: 189
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdeb3962fdac4145af7e8972a520a63
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus04
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 395
+        width: 187
+        height: 328
+      alignment: 9
+      pivot: {x: 0.57343805, y: 0.010014976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230aed37e3b1d904e9b9733bf583dfd8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus05
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 390
+        width: 164
+        height: 305
+      alignment: 9
+      pivot: {x: 0.42142394, y: 0.024220051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705ff3cb660c2c4fa14d4594256a9ad
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus06
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 387
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5256131, y: 0.032072745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612bb5053be632a49902d4975e54a7a2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus07
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 397
+        width: 150
+        height: 256
+      alignment: 9
+      pivot: {x: 0.39541423, y: 0.018507957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3de3626eff63e46ad60c04c1e79d12
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus08
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 393
+        width: 171
+        height: 274
+      alignment: 9
+      pivot: {x: 0.45412868, y: 0.025600906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a09bbc2e3e08f408eab18b30d4ebbc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus09
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 389
+        width: 197
+        height: 274
+      alignment: 9
+      pivot: {x: 0.46018276, y: 0.015377073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11c922e8ffe6748a89221c00f97868
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus010
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 388
+        width: 184
+        height: 271
+      alignment: 9
+      pivot: {x: 0.38428995, y: 0.024484444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11e5954451e19846a895dcfed7012fa
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screw01
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 676
+        width: 175
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815fac0303d6844f99c546fa673a47d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screw02
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 679
+        width: 181
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc006df442edb439a8d6977abd4a90
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Flower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 486
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f248cf27167d21443ae88a16c7133369
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus crazy
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 315
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13848d4559bbb4d9bf78ecc2bde290
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus crazytop
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3
+        width: 367
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18dd9908e9de8b4f9f7d45ede1bfd6b
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 187
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8caad36558ae44bb6e5894f5a923a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: question mark
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 108
+        width: 113
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05526f6f1f95544ca7e5a9ca8917bab
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!'
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 110
+        width: 62
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed58872e930c834394dd0f5da7a50db
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 158
+        width: 135
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29efd08b0776d944bca47e5fbc224a4
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c30dbcf21d9405b41a740489ff9215e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

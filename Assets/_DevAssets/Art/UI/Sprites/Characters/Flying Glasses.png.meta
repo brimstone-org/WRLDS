@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: adbc5d46ed949d8418b1ce2a27ef7d95
+timeCreated: 1534341068
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flying Glasses_0
+    21300002: Flying Glasses_1
+    21300004: Flying Glasses_2
+    21300006: Flying Glasses_3
+    21300008: Flying Glasses_4
+    21300010: Flying Glasses_5
+    21300012: Flying Glasses_6
+    21300014: Flying Glasses_7
+    21300016: Flying Glasses_8
+    21300018: Flying Glasses_9
+    21300020: Flying Glasses_10
+    21300022: Flying Glasses_11
+    21300024: Flying Glasses_12
+    21300026: Flying Glasses_13
+    21300028: Flying Glasses_14
+    21300030: Flying Glasses_15
+    21300032: Flying Glasses_16
+    21300034: Flying Glasses_17
+    21300036: Flying Glasses_18
+    21300038: Flying Glasses_19
+    21300040: Flying Glasses_20
+    21300042: Flying Glasses_21
+    21300044: Flying Glasses_22
+    21300046: Flying Glasses_23
+    21300048: Flying Glasses_24
+    21300050: Flying Glasses_25
+    21300052: Flying Glasses_26
+    21300054: Flying Glasses_27
+    21300056: Flying Glasses_28
+    21300058: Flying Glasses_29
+    21300060: Flying Glasses_30
+    21300062: Flying Glasses_31
+    21300064: Flying Glasses_32
+    21300066: Flying Glasses_33
+    21300068: Flying Glasses_34
+    21300070: Flying Glasses_35
+    21300072: Flying Glasses_36
+    21300074: Flying Glasses_37
+    21300076: Flying Glasses_38
+    21300078: Flying Glasses_39
+    21300080: Flying Glasses_40
+    21300082: Flying Glasses_41
+    21300084: Flying Glasses_42
+    21300086: Flying Glasses_43
+    21300088: Flying Glasses_44
+    21300090: Flying Glasses_45
+    21300092: Flying Glasses_46
+    21300094: Flying Glasses_47
+    21300096: Flying Glasses_48
+    21300098: Flying Glasses_49
+    21300100: Flying Glasses_50
+    21300102: Flying Glasses_51
+    21300104: Flying Glasses_52
+    21300106: Flying Glasses_53
+    21300108: Flying Glasses_54
+    21300110: Flying Glasses_55
+    21300112: Flying Glasses_56
+    21300114: Flying Glasses_57
+    21300116: Flying Glasses_58
+    21300118: Flying Glasses_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 167, y: 189, z: 202, w: 177}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying Glasses_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_20
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying Glasses_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 61, y: -199}
+      - {x: 70, y: -199}
+      - {x: 75, y: -195}
+      - {x: 75, y: -194}
+      - {x: 78, y: -190}
+      - {x: 78, y: -185}
+      - {x: 83, y: -180}
+      - {x: 83, y: -179}
+      - {x: 86, y: -177}
+      - {x: 92, y: -164}
+      - {x: 92, y: -162}
+      - {x: 96, y: -162}
+      - {x: 98, y: -160}
+      - {x: 98, y: -158}
+      - {x: 108, y: -158}
+      - {x: 110, y: -156}
+      - {x: 110, y: -154}
+      - {x: 116, y: -154}
+      - {x: 118, y: -152}
+      - {x: 118, y: -150}
+      - {x: 124, y: -150}
+      - {x: 126, y: -148}
+      - {x: 126, y: -146}
+      - {x: 128, y: -146}
+      - {x: 130, y: -144}
+      - {x: 130, y: -142}
+      - {x: 132, y: -142}
+      - {x: 134, y: -140}
+      - {x: 134, y: -138}
+      - {x: 140, y: -138}
+      - {x: 142, y: -136}
+      - {x: 142, y: -126}
+      - {x: 144, y: -126}
+      - {x: 146, y: -124}
+      - {x: 146, y: -118}
+      - {x: 148, y: -118}
+      - {x: 150, y: -116}
+      - {x: 150, y: -110}
+      - {x: 152, y: -110}
+      - {x: 154, y: -108}
+      - {x: 154, y: -106}
+      - {x: 156, y: -106}
+      - {x: 158, y: -104}
+      - {x: 158, y: -102}
+      - {x: 160, y: -102}
+      - {x: 162, y: -100}
+      - {x: 162, y: -98}
+      - {x: 164, y: -98}
+      - {x: 166, y: -96}
+      - {x: 166, y: -94}
+      - {x: 168, y: -94}
+      - {x: 170, y: -92}
+      - {x: 170, y: -79}
+      - {x: 168, y: -75}
+      - {x: 169, y: -74}
+      - {x: 169, y: -72}
+      - {x: 167, y: -69}
+      - {x: 165, y: -69}
+      - {x: 166, y: -68}
+      - {x: 166, y: -64}
+      - {x: 165, y: -63}
+      - {x: 181, y: -63}
+      - {x: 182, y: -62}
+      - {x: 193, y: -62}
+      - {x: 194, y: -61}
+      - {x: 199, y: -61}
+      - {x: 200, y: -62}
+      - {x: 204, y: -62}
+      - {x: 206, y: -60}
+      - {x: 211, y: -60}
+      - {x: 212, y: -59}
+      - {x: 219, y: -59}
+      - {x: 220, y: -58}
+      - {x: 232, y: -57}
+      - {x: 233, y: -56}
+      - {x: 237, y: -55}
+      - {x: 243, y: -49}
+      - {x: 244, y: -45}
+      - {x: 245, y: -44}
+      - {x: 245, y: -42}
+      - {x: 246, y: -41}
+      - {x: 246, y: -38}
+      - {x: 247, y: -37}
+      - {x: 247, y: -34}
+      - {x: 248, y: -33}
+      - {x: 248, y: -30}
+      - {x: 249, y: -29}
+      - {x: 249, y: -25}
+      - {x: 251, y: -21}
+      - {x: 252, y: -13}
+      - {x: 253, y: -12}
+      - {x: 253, y: -9}
+      - {x: 254, y: -8}
+      - {x: 254, y: -5}
+      - {x: 255, y: -4}
+      - {x: 255, y: 0}
+      - {x: 256, y: 1}
+      - {x: 256, y: 4}
+      - {x: 257, y: 5}
+      - {x: 257, y: 9}
+      - {x: 258, y: 10}
+      - {x: 258, y: 13}
+      - {x: 259, y: 14}
+      - {x: 259, y: 18}
+      - {x: 260, y: 19}
+      - {x: 260, y: 24}
+      - {x: 261, y: 25}
+      - {x: 261, y: 30}
+      - {x: 262, y: 31}
+      - {x: 262, y: 36}
+      - {x: 263, y: 37}
+      - {x: 264, y: 46}
+      - {x: 266, y: 50}
+      - {x: 266, y: 53}
+      - {x: 270, y: 59}
+      - {x: 271, y: 59}
+      - {x: 273, y: 61}
+      - {x: 274, y: 61}
+      - {x: 278, y: 65}
+      - {x: 279, y: 65}
+      - {x: 283, y: 62}
+      - {x: 284, y: 62}
+      - {x: 286, y: 60}
+      - {x: 287, y: 60}
+      - {x: 288, y: 58}
+      - {x: 291, y: 57}
+      - {x: 293, y: 55}
+      - {x: 302, y: 51}
+      - {x: 308, y: 50}
+      - {x: 309, y: 49}
+      - {x: 319, y: 49}
+      - {x: 326, y: 52}
+      - {x: 331, y: 57}
+      - {x: 335, y: 66}
+      - {x: 335, y: 79}
+      - {x: 334, y: 80}
+      - {x: 334, y: 83}
+      - {x: 331, y: 89}
+      - {x: 331, y: 91}
+      - {x: 326, y: 100}
+      - {x: 326, y: 104}
+      - {x: 324, y: 106}
+      - {x: 323, y: 106}
+      - {x: 321, y: 108}
+      - {x: 321, y: 109}
+      - {x: 319, y: 111}
+      - {x: 319, y: 112}
+      - {x: 317, y: 115}
+      - {x: 315, y: 119}
+      - {x: 308, y: 126}
+      - {x: 308, y: 127}
+      - {x: 303, y: 132}
+      - {x: 303, y: 133}
+      - {x: 298, y: 138}
+      - {x: 298, y: 140}
+      - {x: 296, y: 142}
+      - {x: 294, y: 142}
+      - {x: 280, y: 156}
+      - {x: 279, y: 156}
+      - {x: 274, y: 161}
+      - {x: 273, y: 161}
+      - {x: 266, y: 167}
+      - {x: 265, y: 167}
+      - {x: 263, y: 169}
+      - {x: 262, y: 169}
+      - {x: 260, y: 171}
+      - {x: 259, y: 171}
+      - {x: 252, y: 177}
+      - {x: 244, y: 181}
+      - {x: 235, y: 187}
+      - {x: 233, y: 188}
+      - {x: 231, y: 190}
+      - {x: 226, y: 192}
+      - {x: 222, y: 192}
+      - {x: 217, y: 187}
+      - {x: 215, y: 182}
+      - {x: 213, y: 179}
+      - {x: 213, y: 178}
+      - {x: 211, y: 177}
+      - {x: 209, y: 173}
+      - {x: 206, y: 169}
+      - {x: 206, y: 168}
+      - {x: 201, y: 162}
+      - {x: 201, y: 161}
+      - {x: 198, y: 158}
+      - {x: 198, y: 157}
+      - {x: 194, y: 153}
+      - {x: 194, y: 152}
+      - {x: 186, y: 144}
+      - {x: 186, y: 143}
+      - {x: 179, y: 136}
+      - {x: 179, y: 135}
+      - {x: 168, y: 124}
+      - {x: 167, y: 124}
+      - {x: 164, y: 121}
+      - {x: 133, y: 120}
+      - {x: 129, y: 124}
+      - {x: 129, y: 125}
+      - {x: 111, y: 143}
+      - {x: 110, y: 143}
+      - {x: 105, y: 148}
+      - {x: 104, y: 148}
+      - {x: 97, y: 154}
+      - {x: 96, y: 154}
+      - {x: 94, y: 156}
+      - {x: 93, y: 156}
+      - {x: 90, y: 158}
+      - {x: 90, y: 160}
+      - {x: 88, y: 162}
+      - {x: 84, y: 162}
+      - {x: 58, y: 175}
+      - {x: 56, y: 175}
+      - {x: 55, y: 176}
+      - {x: 53, y: 176}
+      - {x: 52, y: 177}
+      - {x: 50, y: 177}
+      - {x: 49, y: 178}
+      - {x: 47, y: 178}
+      - {x: 43, y: 180}
+      - {x: 40, y: 180}
+      - {x: 39, y: 181}
+      - {x: 32, y: 182}
+      - {x: 31, y: 183}
+      - {x: 27, y: 183}
+      - {x: 26, y: 184}
+      - {x: 20, y: 184}
+      - {x: 16, y: 186}
+      - {x: -22, y: 186}
+      - {x: -23, y: 185}
+      - {x: -37, y: 184}
+      - {x: -38, y: 183}
+      - {x: -42, y: 183}
+      - {x: -43, y: 182}
+      - {x: -46, y: 182}
+      - {x: -47, y: 181}
+      - {x: -54, y: 180}
+      - {x: -55, y: 179}
+      - {x: -57, y: 179}
+      - {x: -58, y: 178}
+      - {x: -60, y: 178}
+      - {x: -61, y: 177}
+      - {x: -69, y: 175}
+      - {x: -79, y: 170}
+      - {x: -84, y: 170}
+      - {x: -86, y: 168}
+      - {x: -86, y: 167}
+      - {x: -88, y: 166}
+      - {x: -97, y: 162}
+      - {x: -98, y: 160}
+      - {x: -99, y: 160}
+      - {x: -101, y: 158}
+      - {x: -102, y: 158}
+      - {x: -105, y: 156}
+      - {x: -109, y: 154}
+      - {x: -115, y: 148}
+      - {x: -116, y: 148}
+      - {x: -121, y: 143}
+      - {x: -122, y: 143}
+      - {x: -135, y: 130}
+      - {x: -136, y: 131}
+      - {x: -136, y: 132}
+      - {x: -150, y: 146}
+      - {x: -150, y: 148}
+      - {x: -152, y: 150}
+      - {x: -153, y: 150}
+      - {x: -162, y: 159}
+      - {x: -162, y: 160}
+      - {x: -174, y: 172}
+      - {x: -174, y: 173}
+      - {x: -182, y: 181}
+      - {x: -182, y: 184}
+      - {x: -184, y: 186}
+      - {x: -187, y: 186}
+      - {x: -189, y: 187}
+      - {x: -194, y: 185}
+      - {x: -194, y: 181}
+      - {x: -199, y: 172}
+      - {x: -199, y: 170}
+      - {x: -203, y: 163}
+      - {x: -203, y: 161}
+      - {x: -207, y: 154}
+      - {x: -207, y: 152}
+      - {x: -210, y: 147}
+      - {x: -213, y: 150}
+      - {x: -213, y: 151}
+      - {x: -218, y: 156}
+      - {x: -218, y: 157}
+      - {x: -225, y: 166}
+      - {x: -227, y: 170}
+      - {x: -230, y: 172}
+      - {x: -230, y: 173}
+      - {x: -232, y: 175}
+      - {x: -232, y: 176}
+      - {x: -238, y: 185}
+      - {x: -241, y: 192}
+      - {x: -244, y: 194}
+      - {x: -248, y: 194}
+      - {x: -255, y: 191}
+      - {x: -259, y: 187}
+      - {x: -263, y: 186}
+      - {x: -265, y: 184}
+      - {x: -273, y: 180}
+      - {x: -277, y: 176}
+      - {x: -281, y: 175}
+      - {x: -282, y: 173}
+      - {x: -283, y: 173}
+      - {x: -285, y: 171}
+      - {x: -286, y: 171}
+      - {x: -289, y: 169}
+      - {x: -293, y: 167}
+      - {x: -296, y: 163}
+      - {x: -297, y: 163}
+      - {x: -300, y: 160}
+      - {x: -301, y: 160}
+      - {x: -306, y: 155}
+      - {x: -307, y: 155}
+      - {x: -325, y: 137}
+      - {x: -325, y: 136}
+      - {x: -331, y: 130}
+      - {x: -331, y: 129}
+      - {x: -334, y: 126}
+      - {x: -334, y: 125}
+      - {x: -340, y: 118}
+      - {x: -341, y: 116}
+      - {x: -343, y: 114}
+      - {x: -346, y: 108}
+      - {x: -348, y: 106}
+      - {x: -350, y: 105}
+      - {x: -350, y: 100}
+      - {x: -351, y: 99}
+      - {x: -351, y: 97}
+      - {x: -353, y: 94}
+      - {x: -353, y: 92}
+      - {x: -354, y: 91}
+      - {x: -354, y: 89}
+      - {x: -356, y: 85}
+      - {x: -356, y: 68}
+      - {x: -354, y: 63}
+      - {x: -352, y: 62}
+      - {x: -352, y: 61}
+      - {x: -347, y: 56}
+      - {x: -346, y: 56}
+      - {x: -342, y: 53}
+      - {x: -339, y: 53}
+      - {x: -338, y: 52}
+      - {x: -333, y: 52}
+      - {x: -332, y: 53}
+      - {x: -328, y: 53}
+      - {x: -320, y: 57}
+      - {x: -318, y: 57}
+      - {x: -315, y: 59}
+      - {x: -307, y: 63}
+      - {x: -300, y: 69}
+      - {x: -296, y: 70}
+      - {x: -291, y: 74}
+      - {x: -289, y: 75}
+      - {x: -283, y: 80}
+      - {x: -283, y: 78}
+      - {x: -284, y: 77}
+      - {x: -284, y: 73}
+      - {x: -285, y: 72}
+      - {x: -285, y: 68}
+      - {x: -286, y: 67}
+      - {x: -286, y: 62}
+      - {x: -287, y: 61}
+      - {x: -287, y: 52}
+      - {x: -286, y: 51}
+      - {x: -286, y: 49}
+      - {x: -284, y: 44}
+      - {x: -279, y: 39}
+      - {x: -274, y: 37}
+      - {x: -263, y: 37}
+      - {x: -252, y: 42}
+      - {x: -243, y: 50}
+      - {x: -242, y: 42}
+      - {x: -241, y: 41}
+      - {x: -241, y: 37}
+      - {x: -240, y: 36}
+      - {x: -240, y: 29}
+      - {x: -241, y: 28}
+      - {x: -241, y: 21}
+      - {x: -242, y: 20}
+      - {x: -242, y: 11}
+      - {x: -243, y: 10}
+      - {x: -243, y: -1}
+      - {x: -244, y: -2}
+      - {x: -244, y: -12}
+      - {x: -245, y: -13}
+      - {x: -245, y: -17}
+      - {x: -240, y: -19}
+      - {x: -232, y: -20}
+      - {x: -231, y: -21}
+      - {x: -228, y: -21}
+      - {x: -228, y: -24}
+      - {x: -227, y: -25}
+      - {x: -227, y: -28}
+      - {x: -226, y: -29}
+      - {x: -225, y: -37}
+      - {x: -224, y: -38}
+      - {x: -223, y: -43}
+      - {x: -221, y: -48}
+      - {x: -216, y: -52}
+      - {x: -212, y: -53}
+      - {x: -211, y: -54}
+      - {x: -208, y: -54}
+      - {x: -207, y: -55}
+      - {x: -201, y: -55}
+      - {x: -200, y: -56}
+      - {x: -194, y: -56}
+      - {x: -193, y: -57}
+      - {x: -187, y: -57}
+      - {x: -186, y: -58}
+      - {x: -179, y: -58}
+      - {x: -178, y: -59}
+      - {x: -170, y: -59}
+      - {x: -169, y: -63}
+      - {x: -162, y: -78}
+      - {x: -160, y: -80}
+      - {x: -159, y: -83}
+      - {x: -157, y: -84}
+      - {x: -157, y: -85}
+      - {x: -155, y: -87}
+      - {x: -155, y: -88}
+      - {x: -153, y: -91}
+      - {x: -151, y: -95}
+      - {x: -148, y: -97}
+      - {x: -148, y: -98}
+      - {x: -145, y: -101}
+      - {x: -145, y: -102}
+      - {x: -140, y: -107}
+      - {x: -140, y: -108}
+      - {x: -127, y: -121}
+      - {x: -127, y: -122}
+      - {x: -128, y: -123}
+      - {x: -128, y: -129}
+      - {x: -129, y: -130}
+      - {x: -129, y: -141}
+      - {x: -128, y: -142}
+      - {x: -128, y: -148}
+      - {x: -127, y: -149}
+      - {x: -127, y: -152}
+      - {x: -126, y: -153}
+      - {x: -125, y: -158}
+      - {x: -121, y: -165}
+      - {x: -121, y: -174}
+      - {x: -120, y: -177}
+      - {x: -115, y: -181}
+      - {x: -111, y: -182}
+      - {x: -110, y: -183}
+      - {x: -107, y: -183}
+      - {x: -106, y: -182}
+      - {x: -102, y: -182}
+      - {x: -98, y: -184}
+      - {x: -87, y: -184}
+      - {x: -83, y: -187}
+      - {x: -75, y: -187}
+      - {x: -72, y: -186}
+      - {x: -69, y: -182}
+      - {x: -69, y: -181}
+      - {x: -67, y: -179}
+      - {x: -67, y: -176}
+      - {x: -60, y: -170}
+      - {x: -58, y: -169}
+      - {x: -58, y: -167}
+      - {x: -56, y: -164}
+      - {x: -55, y: -165}
+      - {x: -52, y: -165}
+      - {x: -51, y: -166}
+      - {x: -45, y: -167}
+      - {x: -41, y: -169}
+      - {x: -37, y: -169}
+      - {x: -36, y: -170}
+      - {x: -34, y: -170}
+      - {x: -32, y: -172}
+      - {x: -28, y: -173}
+      - {x: -26, y: -171}
+      - {x: -25, y: -172}
+      - {x: -18, y: -172}
+      - {x: -17, y: -173}
+      - {x: -8, y: -174}
+      - {x: -7, y: -173}
+      - {x: -5, y: -173}
+      - {x: -4, y: -174}
+      - {x: 10, y: -174}
+      - {x: 11, y: -173}
+      - {x: 15, y: -173}
+      - {x: 16, y: -175}
+      - {x: 19, y: -182}
+      - {x: 23, y: -185}
+      - {x: 23, y: -186}
+      - {x: 31, y: -194}
+      - {x: 33, y: -194}
+      - {x: 41, y: -198}
+      - {x: 46, y: -198}
+      - {x: 47, y: -199}
+      - {x: 52, y: -199}
+      - {x: 53, y: -198}
+      - {x: 57, y: -198}
+      - {x: 58, y: -197}
+    physicsShape:
+    - - {x: 77, y: -185}
+      - {x: 82, y: -180}
+      - {x: 82, y: -179}
+      - {x: 85, y: -177}
+      - {x: 86, y: -174}
+      - {x: 88, y: -172}
+      - {x: 90, y: -167}
+      - {x: 90, y: -165}
+      - {x: 92, y: -162}
+      - {x: 92, y: -160}
+      - {x: 93, y: -159}
+      - {x: 93, y: -156}
+      - {x: 94, y: -155}
+      - {x: 95, y: -149}
+      - {x: 98, y: -147}
+      - {x: 101, y: -146}
+      - {x: 102, y: -144}
+      - {x: 103, y: -144}
+      - {x: 105, y: -142}
+      - {x: 106, y: -142}
+      - {x: 109, y: -140}
+      - {x: 113, y: -138}
+      - {x: 115, y: -135}
+      - {x: 116, y: -135}
+      - {x: 126, y: -126}
+      - {x: 127, y: -126}
+      - {x: 143, y: -110}
+      - {x: 143, y: -109}
+      - {x: 149, y: -103}
+      - {x: 149, y: -102}
+      - {x: 152, y: -99}
+      - {x: 152, y: -98}
+      - {x: 155, y: -95}
+      - {x: 155, y: -94}
+      - {x: 158, y: -91}
+      - {x: 158, y: -90}
+      - {x: 162, y: -85}
+      - {x: 163, y: -83}
+      - {x: 165, y: -81}
+      - {x: 168, y: -74}
+      - {x: 168, y: -71}
+      - {x: 156, y: -65}
+      - {x: 156, y: -64}
+      - {x: 157, y: -62}
+      - {x: 182, y: -62}
+      - {x: 183, y: -61}
+      - {x: 195, y: -61}
+      - {x: 196, y: -60}
+      - {x: 204, y: -60}
+      - {x: 205, y: -59}
+      - {x: 220, y: -58}
+      - {x: 221, y: -57}
+      - {x: 227, y: -57}
+      - {x: 228, y: -56}
+      - {x: 232, y: -56}
+      - {x: 233, y: -55}
+      - {x: 235, y: -55}
+      - {x: 238, y: -54}
+      - {x: 242, y: -50}
+      - {x: 244, y: -45}
+      - {x: 245, y: -39}
+      - {x: 246, y: -38}
+      - {x: 246, y: -34}
+      - {x: 247, y: -33}
+      - {x: 247, y: -30}
+      - {x: 248, y: -29}
+      - {x: 248, y: -26}
+      - {x: 249, y: -25}
+      - {x: 249, y: -22}
+      - {x: 250, y: -21}
+      - {x: 250, y: -18}
+      - {x: 251, y: -17}
+      - {x: 251, y: -14}
+      - {x: 252, y: -13}
+      - {x: 252, y: -10}
+      - {x: 253, y: -9}
+      - {x: 253, y: -5}
+      - {x: 254, y: -4}
+      - {x: 254, y: -1}
+      - {x: 255, y: 0}
+      - {x: 255, y: 3}
+      - {x: 256, y: 4}
+      - {x: 256, y: 8}
+      - {x: 257, y: 9}
+      - {x: 257, y: 13}
+      - {x: 258, y: 14}
+      - {x: 258, y: 18}
+      - {x: 259, y: 19}
+      - {x: 259, y: 23}
+      - {x: 260, y: 24}
+      - {x: 260, y: 29}
+      - {x: 261, y: 30}
+      - {x: 261, y: 35}
+      - {x: 262, y: 36}
+      - {x: 262, y: 40}
+      - {x: 263, y: 41}
+      - {x: 264, y: 49}
+      - {x: 265, y: 50}
+      - {x: 266, y: 55}
+      - {x: 270, y: 60}
+      - {x: 271, y: 60}
+      - {x: 273, y: 62}
+      - {x: 274, y: 62}
+      - {x: 278, y: 66}
+      - {x: 279, y: 66}
+      - {x: 280, y: 64}
+      - {x: 284, y: 63}
+      - {x: 289, y: 59}
+      - {x: 291, y: 58}
+      - {x: 293, y: 56}
+      - {x: 302, y: 52}
+      - {x: 304, y: 52}
+      - {x: 308, y: 50}
+      - {x: 319, y: 50}
+      - {x: 326, y: 53}
+      - {x: 331, y: 58}
+      - {x: 334, y: 65}
+      - {x: 334, y: 80}
+      - {x: 333, y: 81}
+      - {x: 331, y: 89}
+      - {x: 324, y: 104}
+      - {x: 322, y: 106}
+      - {x: 321, y: 109}
+      - {x: 319, y: 110}
+      - {x: 319, y: 111}
+      - {x: 317, y: 114}
+      - {x: 315, y: 118}
+      - {x: 308, y: 125}
+      - {x: 308, y: 126}
+      - {x: 303, y: 131}
+      - {x: 303, y: 132}
+      - {x: 279, y: 156}
+      - {x: 278, y: 156}
+      - {x: 274, y: 160}
+      - {x: 273, y: 160}
+      - {x: 266, y: 166}
+      - {x: 265, y: 166}
+      - {x: 263, y: 168}
+      - {x: 262, y: 168}
+      - {x: 260, y: 170}
+      - {x: 259, y: 170}
+      - {x: 251, y: 176}
+      - {x: 248, y: 177}
+      - {x: 243, y: 181}
+      - {x: 240, y: 182}
+      - {x: 233, y: 188}
+      - {x: 226, y: 191}
+      - {x: 222, y: 191}
+      - {x: 218, y: 186}
+      - {x: 217, y: 184}
+      - {x: 215, y: 182}
+      - {x: 214, y: 179}
+      - {x: 211, y: 175}
+      - {x: 211, y: 174}
+      - {x: 209, y: 173}
+      - {x: 207, y: 169}
+      - {x: 204, y: 165}
+      - {x: 204, y: 164}
+      - {x: 201, y: 161}
+      - {x: 201, y: 160}
+      - {x: 198, y: 157}
+      - {x: 198, y: 156}
+      - {x: 194, y: 152}
+      - {x: 194, y: 151}
+      - {x: 187, y: 144}
+      - {x: 187, y: 143}
+      - {x: 179, y: 135}
+      - {x: 179, y: 134}
+      - {x: 168, y: 123}
+      - {x: 167, y: 123}
+      - {x: 164, y: 120}
+      - {x: 147, y: 120}
+      - {x: 146, y: 119}
+      - {x: 133, y: 119}
+      - {x: 129, y: 123}
+      - {x: 129, y: 124}
+      - {x: 110, y: 143}
+      - {x: 109, y: 143}
+      - {x: 100, y: 151}
+      - {x: 99, y: 151}
+      - {x: 98, y: 153}
+      - {x: 94, y: 155}
+      - {x: 91, y: 158}
+      - {x: 81, y: 163}
+      - {x: 79, y: 165}
+      - {x: 68, y: 170}
+      - {x: 66, y: 170}
+      - {x: 61, y: 173}
+      - {x: 59, y: 173}
+      - {x: 56, y: 175}
+      - {x: 54, y: 175}
+      - {x: 53, y: 176}
+      - {x: 51, y: 176}
+      - {x: 47, y: 178}
+      - {x: 44, y: 178}
+      - {x: 43, y: 179}
+      - {x: 37, y: 180}
+      - {x: 36, y: 181}
+      - {x: 32, y: 181}
+      - {x: 31, y: 182}
+      - {x: 27, y: 182}
+      - {x: 26, y: 183}
+      - {x: 21, y: 183}
+      - {x: 20, y: 184}
+      - {x: 13, y: 184}
+      - {x: 12, y: 185}
+      - {x: -23, y: 185}
+      - {x: -24, y: 184}
+      - {x: -31, y: 184}
+      - {x: -32, y: 183}
+      - {x: -37, y: 183}
+      - {x: -38, y: 182}
+      - {x: -42, y: 182}
+      - {x: -43, y: 181}
+      - {x: -47, y: 181}
+      - {x: -51, y: 179}
+      - {x: -58, y: 178}
+      - {x: -59, y: 177}
+      - {x: -64, y: 176}
+      - {x: -67, y: 174}
+      - {x: -69, y: 174}
+      - {x: -72, y: 172}
+      - {x: -74, y: 172}
+      - {x: -79, y: 169}
+      - {x: -81, y: 169}
+      - {x: -88, y: 166}
+      - {x: -90, y: 164}
+      - {x: -97, y: 161}
+      - {x: -98, y: 159}
+      - {x: -99, y: 159}
+      - {x: -101, y: 157}
+      - {x: -102, y: 157}
+      - {x: -104, y: 155}
+      - {x: -105, y: 155}
+      - {x: -108, y: 153}
+      - {x: -112, y: 151}
+      - {x: -121, y: 142}
+      - {x: -122, y: 142}
+      - {x: -135, y: 129}
+      - {x: -136, y: 130}
+      - {x: -136, y: 131}
+      - {x: -151, y: 146}
+      - {x: -151, y: 147}
+      - {x: -162, y: 158}
+      - {x: -162, y: 159}
+      - {x: -174, y: 171}
+      - {x: -174, y: 172}
+      - {x: -188, y: 186}
+      - {x: -193, y: 184}
+      - {x: -195, y: 179}
+      - {x: -195, y: 177}
+      - {x: -200, y: 168}
+      - {x: -200, y: 166}
+      - {x: -204, y: 159}
+      - {x: -204, y: 157}
+      - {x: -207, y: 152}
+      - {x: -207, y: 150}
+      - {x: -209, y: 145}
+      - {x: -219, y: 156}
+      - {x: -219, y: 157}
+      - {x: -222, y: 160}
+      - {x: -222, y: 161}
+      - {x: -228, y: 168}
+      - {x: -228, y: 169}
+      - {x: -230, y: 172}
+      - {x: -232, y: 176}
+      - {x: -237, y: 182}
+      - {x: -240, y: 189}
+      - {x: -244, y: 193}
+      - {x: -248, y: 193}
+      - {x: -255, y: 190}
+      - {x: -257, y: 188}
+      - {x: -265, y: 184}
+      - {x: -270, y: 180}
+      - {x: -278, y: 176}
+      - {x: -279, y: 174}
+      - {x: -280, y: 174}
+      - {x: -282, y: 172}
+      - {x: -283, y: 172}
+      - {x: -285, y: 170}
+      - {x: -286, y: 170}
+      - {x: -289, y: 168}
+      - {x: -293, y: 166}
+      - {x: -295, y: 163}
+      - {x: -296, y: 163}
+      - {x: -299, y: 160}
+      - {x: -300, y: 160}
+      - {x: -305, y: 155}
+      - {x: -306, y: 155}
+      - {x: -325, y: 136}
+      - {x: -325, y: 135}
+      - {x: -330, y: 130}
+      - {x: -330, y: 129}
+      - {x: -337, y: 121}
+      - {x: -337, y: 120}
+      - {x: -343, y: 112}
+      - {x: -344, y: 110}
+      - {x: -346, y: 108}
+      - {x: -351, y: 97}
+      - {x: -351, y: 95}
+      - {x: -353, y: 92}
+      - {x: -353, y: 90}
+      - {x: -355, y: 86}
+      - {x: -355, y: 82}
+      - {x: -356, y: 81}
+      - {x: -356, y: 71}
+      - {x: -355, y: 70}
+      - {x: -354, y: 65}
+      - {x: -352, y: 63}
+      - {x: -352, y: 62}
+      - {x: -347, y: 57}
+      - {x: -346, y: 57}
+      - {x: -342, y: 54}
+      - {x: -339, y: 54}
+      - {x: -338, y: 53}
+      - {x: -332, y: 53}
+      - {x: -331, y: 54}
+      - {x: -328, y: 54}
+      - {x: -327, y: 55}
+      - {x: -322, y: 56}
+      - {x: -317, y: 58}
+      - {x: -315, y: 60}
+      - {x: -310, y: 62}
+      - {x: -306, y: 66}
+      - {x: -303, y: 67}
+      - {x: -294, y: 73}
+      - {x: -288, y: 76}
+      - {x: -282, y: 82}
+      - {x: -282, y: 79}
+      - {x: -283, y: 78}
+      - {x: -283, y: 74}
+      - {x: -284, y: 73}
+      - {x: -284, y: 69}
+      - {x: -285, y: 68}
+      - {x: -285, y: 63}
+      - {x: -286, y: 62}
+      - {x: -286, y: 52}
+      - {x: -285, y: 51}
+      - {x: -285, y: 48}
+      - {x: -284, y: 45}
+      - {x: -279, y: 40}
+      - {x: -274, y: 38}
+      - {x: -272, y: 38}
+      - {x: -271, y: 37}
+      - {x: -267, y: 37}
+      - {x: -266, y: 38}
+      - {x: -263, y: 38}
+      - {x: -262, y: 39}
+      - {x: -260, y: 39}
+      - {x: -255, y: 41}
+      - {x: -253, y: 43}
+      - {x: -249, y: 45}
+      - {x: -243, y: 51}
+      - {x: -242, y: 50}
+      - {x: -242, y: 47}
+      - {x: -241, y: 46}
+      - {x: -241, y: 42}
+      - {x: -240, y: 41}
+      - {x: -239, y: 31}
+      - {x: -240, y: 30}
+      - {x: -240, y: 21}
+      - {x: -241, y: 20}
+      - {x: -241, y: 12}
+      - {x: -242, y: 11}
+      - {x: -242, y: 1}
+      - {x: -243, y: 0}
+      - {x: -243, y: -11}
+      - {x: -244, y: -12}
+      - {x: -244, y: -15}
+      - {x: -241, y: -18}
+      - {x: -237, y: -18}
+      - {x: -236, y: -19}
+      - {x: -228, y: -20}
+      - {x: -222, y: -44}
+      - {x: -221, y: -47}
+      - {x: -215, y: -52}
+      - {x: -213, y: -52}
+      - {x: -212, y: -53}
+      - {x: -208, y: -53}
+      - {x: -207, y: -54}
+      - {x: -202, y: -54}
+      - {x: -201, y: -55}
+      - {x: -188, y: -56}
+      - {x: -187, y: -57}
+      - {x: -171, y: -58}
+      - {x: -169, y: -61}
+      - {x: -164, y: -73}
+      - {x: -162, y: -75}
+      - {x: -160, y: -80}
+      - {x: -156, y: -85}
+      - {x: -153, y: -91}
+      - {x: -150, y: -93}
+      - {x: -150, y: -94}
+      - {x: -148, y: -96}
+      - {x: -148, y: -97}
+      - {x: -144, y: -101}
+      - {x: -144, y: -102}
+      - {x: -140, y: -106}
+      - {x: -140, y: -107}
+      - {x: -126, y: -121}
+      - {x: -127, y: -122}
+      - {x: -127, y: -127}
+      - {x: -128, y: -128}
+      - {x: -128, y: -143}
+      - {x: -127, y: -144}
+      - {x: -127, y: -149}
+      - {x: -126, y: -150}
+      - {x: -125, y: -156}
+      - {x: -123, y: -159}
+      - {x: -122, y: -163}
+      - {x: -120, y: -165}
+      - {x: -120, y: -174}
+      - {x: -119, y: -177}
+      - {x: -116, y: -180}
+      - {x: -111, y: -182}
+      - {x: -107, y: -182}
+      - {x: -106, y: -181}
+      - {x: -102, y: -181}
+      - {x: -98, y: -183}
+      - {x: -92, y: -183}
+      - {x: -91, y: -184}
+      - {x: -89, y: -184}
+      - {x: -88, y: -183}
+      - {x: -84, y: -186}
+      - {x: -75, y: -186}
+      - {x: -72, y: -185}
+      - {x: -69, y: -182}
+      - {x: -68, y: -179}
+      - {x: -68, y: -176}
+      - {x: -56, y: -165}
+      - {x: -56, y: -163}
+      - {x: -55, y: -164}
+      - {x: -53, y: -164}
+      - {x: -49, y: -166}
+      - {x: -46, y: -166}
+      - {x: -45, y: -167}
+      - {x: -42, y: -167}
+      - {x: -41, y: -168}
+      - {x: -38, y: -168}
+      - {x: -37, y: -169}
+      - {x: -33, y: -169}
+      - {x: -32, y: -170}
+      - {x: -27, y: -170}
+      - {x: -26, y: -171}
+      - {x: -20, y: -171}
+      - {x: -19, y: -172}
+      - {x: -7, y: -172}
+      - {x: -6, y: -173}
+      - {x: 13, y: -173}
+      - {x: 14, y: -172}
+      - {x: 16, y: -172}
+      - {x: 16, y: -174}
+      - {x: 18, y: -179}
+      - {x: 20, y: -180}
+      - {x: 20, y: -181}
+      - {x: 23, y: -184}
+      - {x: 23, y: -185}
+      - {x: 31, y: -193}
+      - {x: 33, y: -193}
+      - {x: 41, y: -197}
+      - {x: 45, y: -197}
+      - {x: 46, y: -198}
+      - {x: 52, y: -198}
+      - {x: 53, y: -197}
+      - {x: 60, y: -197}
+      - {x: 64, y: -199}
+      - {x: 70, y: -198}
+      - {x: 75, y: -194}
+      - {x: 75, y: -193}
+      - {x: 77, y: -191}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

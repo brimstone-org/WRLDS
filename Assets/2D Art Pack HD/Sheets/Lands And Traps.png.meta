@@ -1,0 +1,1945 @@
+fileFormatVersion: 2
+guid: 75fee26d55476c44d9c24dd627d381cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Land Longest whole
+  - first:
+      213: 21300002
+    second: Land Mid Cut 01
+  - first:
+      213: 21300004
+    second: Land Long Cut
+  - first:
+      213: 21300006
+    second: Trap Spikes
+  - first:
+      213: 21300008
+    second: Trap Spike
+  - first:
+      213: 21300010
+    second: Acid Pool Red 01
+  - first:
+      213: 21300012
+    second: Acid Bubble Red
+  - first:
+      213: 21300014
+    second: Acid Bubble Splash
+  - first:
+      213: 21300016
+    second: Cliff Med R
+  - first:
+      213: 21300018
+    second: Cliff Med L
+  - first:
+      213: 21300020
+    second: Tile Land
+  - first:
+      213: 21300022
+    second: Tile R Top
+  - first:
+      213: 21300024
+    second: Tile L Top
+  - first:
+      213: 21300026
+    second: Tile R Top Cut
+  - first:
+      213: 21300028
+    second: Tile L Top Cut
+  - first:
+      213: 21300030
+    second: Tile L Bot
+  - first:
+      213: 21300032
+    second: Tile L Bot Cut
+  - first:
+      213: 21300034
+    second: Tile R Bot
+  - first:
+      213: 21300036
+    second: Tile R Bot Cut
+  - first:
+      213: 21300038
+    second: Root Green Solo Long
+  - first:
+      213: 21300040
+    second: Vein Flowa
+  - first:
+      213: 21300042
+    second: Trap Brown Spike
+  - first:
+      213: 21300044
+    second: Cliff Small L
+  - first:
+      213: 21300046
+    second: Cliff Small R
+  - first:
+      213: 21300048
+    second: Land U Shape
+  - first:
+      213: 21300050
+    second: Land U Shape Cut
+  - first:
+      213: 21300052
+    second: Acid Green Bubble Splash
+  - first:
+      213: 21300054
+    second: Acid Green Bubble
+  - first:
+      213: 21300056
+    second: Acid Green Pool
+  - first:
+      213: 21300058
+    second: Lands And Traps_0
+  - first:
+      213: 21300060
+    second: Land Long
+  - first:
+      213: 21300062
+    second: Land Short 01
+  - first:
+      213: 21300064
+    second: Land Short 02
+  - first:
+      213: 21300066
+    second: Land Short 03
+  - first:
+      213: 21300068
+    second: End L
+  - first:
+      213: 21300070
+    second: End R1
+  - first:
+      213: 21300072
+    second: End R
+  - first:
+      213: 21300074
+    second: Land Short 06
+  - first:
+      213: 21300076
+    second: Land mediumt 0
+  - first:
+      213: 21300078
+    second: Land Short 04
+  - first:
+      213: 21300080
+    second: Land Curved Long Cut
+  - first:
+      213: 21300082
+    second: Land Curved Long Cut 02
+  - first:
+      213: 21300084
+    second: Land Curved Long Cut 04
+  - first:
+      213: 21300086
+    second: Land Hill
+  - first:
+      213: 21300088
+    second: Land Hill 01
+  - first:
+      213: 21300090
+    second: Trap Blade
+  - first:
+      213: 21300092
+    second: Trap Root
+  - first:
+      213: 21300094
+    second: Acid Pool Red02
+  - first:
+      213: 21300096
+    second: Sign Skull
+  - first:
+      213: 21300098
+    second: Rope 01
+  - first:
+      213: 21300100
+    second: Rope 02
+  - first:
+      213: 21300102
+    second: Spider Fat
+  - first:
+      213: 21300104
+    second: Web Thread
+  - first:
+      213: 21300106
+    second: Spider Slim
+  - first:
+      213: 21300108
+    second: Web 01
+  - first:
+      213: 21300110
+    second: Web 02
+  - first:
+      213: 21300112
+    second: Root 01
+  - first:
+      213: 21300114
+    second: Root 02
+  - first:
+      213: 21300116
+    second: Root 03
+  - first:
+      213: 21300118
+    second: Root 04
+  - first:
+      213: 21300120
+    second: Root 05
+  - first:
+      213: 21300122
+    second: Root 06
+  - first:
+      213: 21300124
+    second: Root 07
+  - first:
+      213: 21300126
+    second: Root 08
+  - first:
+      213: 21300128
+    second: Root 09
+  - first:
+      213: 21300130
+    second: Root 010
+  - first:
+      213: 21300132
+    second: Root Green 01
+  - first:
+      213: 21300134
+    second: Root Green 02
+  - first:
+      213: 21300136
+    second: Root Green 03
+  - first:
+      213: 21300138
+    second: Root Green 04
+  - first:
+      213: 21300140
+    second: Root Green 05
+  - first:
+      213: 21300142
+    second: Root Green 06
+  - first:
+      213: 21300144
+    second: Root Green 07
+  - first:
+      213: 21300146
+    second: Cliff Cut R
+  - first:
+      213: 21300148
+    second: Cliff Cut L
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Land Longest whole
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1944
+        width: 1007
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348b256dd0118147ac680a8d7fc4e49
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Mid Cut 01
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1944
+        width: 306
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550bfc36b8f7bf34788959acb6f7b5d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Long Cut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1944
+        width: 538
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa010667836dd648a709b15f5179396
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Spikes
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1835
+        width: 314
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e1491ea737134d8b3b33afbddf613
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Spike
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1842
+        width: 38
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5203203c65a608c4da898fbc3f997fbc
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Pool Red 01
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1750
+        width: 364
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69198641ddd364bb24b027bc19a1f0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Bubble Red
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1670
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc0b06a28347d4399e94e8865afa1c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Bubble Splash
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1667
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c95c0b656d0c4fb54f82be3a53534
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Med R
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1673
+        width: 182
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b14ac703287c34383062a41b569de0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Med L
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1675
+        width: 183
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce22b6848442549a1f8a3169be7f49
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Land
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1831
+        width: 443
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7777bc7db563db2439dab09c90896da1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile R Top
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1780
+        width: 280
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2900dde84368ac4fb2739e323bdd1d6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile L Top
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1697
+        width: 271
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8e44f8fc5eb94fab3d7792fd9cc07
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile R Top Cut
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1780
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70be4f6b52910fd45b9384f77cb34b5a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile L Top Cut
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1697
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b3ca0024bdfe41a84c2fe12d43127
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile L Bot
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1495
+        width: 382
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d4c86797f0b144bde28f7165a1b3e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile L Bot Cut
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1495
+        width: 181
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f94f19aed75e1468c83bebeaa56e2f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile R Bot
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1426
+        width: 411
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2117de616d5c948489246092b2f94d94
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile R Bot Cut
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1429
+        width: 294
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aaee812fd46044f94b6b6f1e67fcb2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green Solo Long
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1458
+        width: 70
+        height: 339
+      alignment: 9
+      pivot: {x: 0.62054443, y: 0.93310654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1c4f2519e8334fb447c04aaf0b59b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vein Flowa
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1323
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91694af2fdaf6ce43ab22ef7d644cbee
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Brown Spike
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1456
+        width: 296
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae719301f11b64893fb5318414a084
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Small L
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1503
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e12ff807249074dad2462343ad494e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Small R
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1501
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1911ba17f8f5af40b3c7c681e1c6d80
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land U Shape
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1084
+        width: 701
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e164288f019c428e6e18a5436e105
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land U Shape Cut
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1084
+        width: 545
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda086768c7b3b4e8e61dd015c1862e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Green Bubble Splash
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1188
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5f14d5814c9174bb4748f22f957b2d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Green Bubble
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1177
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a5e6b85eeeb054592f001e2f22de83
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Green Pool
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1080
+        width: 373
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde0d7dd9c024be4f8337a069c0273f3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lands And Traps_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1273
+        width: 412
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a8a0924fa9314280be718bd0c68bb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Long
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1273
+        width: 398
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d1411cbf7ba14fa72283ccc6e6c38
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Short 01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1172
+        width: 212
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228eeb6b3095d1842bbecd046a81e07a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Short 02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1169
+        width: 146
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09e1d76c3f2e0478be01e9a26d7721
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Short 03
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1157
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b3ca3800a2d3e40947d196a67e10cf
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End L
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1161
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6d0cfc9c5e7e4db5517076812b688
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End R1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1164
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f02cdbc103d7c43b2d9789eef90182
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End R
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1055
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653028608c2c064da063d0279f96bb7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Short 06
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1060
+        width: 174
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0de24ec762584090f8fa8e91c5942
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land mediumt 0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1061
+        width: 289
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ce7fa29b05d749b54ae42b02e76cd
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Short 04
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1068
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0a7c2f0e7ad745abdfcabc66318b3
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Curved Long Cut
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 807
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc969b5a5f36994f9e8a6ca2badcb77
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Curved Long Cut 02
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 243
+        width: 790
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c5f31cea293145acb9b95e3d4783f
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Curved Long Cut 04
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 608
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d04f837860058340a77055107b4bbb0
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Hill
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 36
+        width: 826
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a1dcd7b0ffa445a4b9f6d51bbfae1
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land Hill 01
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 36
+        width: 675
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd40c4bb651ed4781644d87b3b8644
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Blade
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 12
+        width: 375
+        height: 161
+      alignment: 9
+      pivot: {x: 0.50297755, y: 0.88837266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f95190c674731940a734a37d3b28bf8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap Root
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 193
+        width: 168
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0197adfc89affa4cba41e903d5a8b75
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Pool Red02
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 424
+        width: 373
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b496183eeaee419fc0529f1387548
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign Skull
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 510
+        width: 178
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49507672, y: 0.056594666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9331afeb1b363724c9968c0368c29816
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope 01
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 561
+        width: 14
+        height: 460
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e4d11d93eb6347a80499b4a56574c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope 02
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 559
+        width: 75
+        height: 463
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e76a342d562414da1987e24ffbd272
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Fat
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 918
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855e6ea3ba9694489f4f5c5c075900c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web Thread
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 737
+        width: 4
+        height: 315
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26f5bdfad79d24594160b80243240c
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider Slim
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 784
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cad02e436571974badf1ffb1756201b
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web 01
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 834
+        width: 110
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741391134f04af4dbe8451fbe93bd3a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web 02
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 845
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7baadb2b9849a438c25cf9db456046
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 01
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 867
+        width: 139
+        height: 201
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd5898075ad28478c877bb3206c570
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 02
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 872
+        width: 94
+        height: 185
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b17f1c3ea97e3a40ac30520205dce48
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 03
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 842
+        width: 114
+        height: 211
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4bc2eb529803d4bb16e88f9249fad3
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 04
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 815
+        width: 89
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9057233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9235203960c985545825d6d3b972f0d5
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 05
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 671
+        width: 56
+        height: 141
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fb840295a66a4d8e8f92b85adce2e
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 06
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 620
+        width: 44
+        height: 194
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17c08f3f0024947800d828e0c87a8e
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 07
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 621
+        width: 87
+        height: 190
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd43ad6b862721e48865a46ecea1b2ee
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 08
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 606
+        width: 74
+        height: 185
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d69a6a92f87bc41ac1972c5c7b81db
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 09
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 601
+        width: 90
+        height: 211
+      alignment: 9
+      pivot: {x: 0.48298475, y: 0.9173179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a77d4c2b9d3f438f7f702dd4e5e7d
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root 010
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 583
+        width: 59
+        height: 227
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c711d730c83a4880f1d34ebd2ea71
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 01
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 428
+        width: 117
+        height: 169
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf75331e642caed4f9ff8bcccd44721b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 02
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 408
+        width: 83
+        height: 169
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e034863e7986246a2adaac36d7d955
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 03
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 440
+        width: 98
+        height: 153
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc337a4f495c104fb1999e8537ae53b
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 04
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 421
+        width: 78
+        height: 152
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300f9bb2fd630fe48bdac457fb6b71ff
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 05
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 388
+        width: 135
+        height: 188
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ee6f9f6659684e8687ca84a97d66c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 06
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 447
+        width: 31
+        height: 143
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9f3d9222f330e4bafedbf30ccf2997
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Root Green 07
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 434
+        width: 53
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45666042, y: 0.8720596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe4d187a07d1954cb284b003012b8bb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Cut R
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1501
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a4dc6dfacc1946be99f92aed81737
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff Cut L
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1503
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f9a47cf3565641a6bc39ba5c611c5
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
